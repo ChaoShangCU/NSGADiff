@@ -1,0 +1,1 @@
+The molecule is a [methyl(oxido){1-[6-(trifluoromethyl)pyridin-3-yl]ethyl}-lambda(6)-sulfanylidene]cyanamide that has R configuration at the sulfur atom and S configuration at the carbon attached to position 3 of the pyridine ring. It is an enantiomer of a (RC,SS)-sulfoxaflor.

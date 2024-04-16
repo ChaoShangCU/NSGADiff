@@ -1,0 +1,1 @@
+The molecule is a peptide anion that is the conjugate base of vancomycin aglycone and the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a peptide anion and a phenolate anion. It is a conjugate base of a vancomycin aglycone and a vancomycin aglycone zwitterion.

@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-3-(beta-D-galactosyl)-sn-glycerol in which the 1- and 2- acyl groups are specified as (9S,13S-12-oxophytodienoyl) and (7Z,10Z,13Z)-hexadecatrienoyl respectively. It has a role as a plant metabolite. It derives from an all-cis-7,10,13-hexadecatrienoic acid and a (15Z)-12-oxophyto-10,15-dienoic acid.

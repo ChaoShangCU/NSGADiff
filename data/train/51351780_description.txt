@@ -1,0 +1,1 @@
+The molecule is the dolichyl diphosphooligosaccharide(2-) species that is the dianion formed by loss of protons from the diphospho linkage in beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-D-GlcNAc(PP-Dol); major microspecies at pH 7.3. It is a conjugate base of a beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-D-GlcNAc(PP-Dol).

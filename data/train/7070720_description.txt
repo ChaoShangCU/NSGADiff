@@ -1,0 +1,1 @@
+The molecule is a 6,8-difluoro-4-(pyridin-3-yl)-3a,4,5,9b-tetrahydro-3H-cyclopenta[c]quinoline that has 3aS,4R,9bR configuration. It is the most active stereoisomer of golgicide A. It has a role as a cis-Golgi ArfGEF GBF inhibitor. It is an enantiomer of a (3aR,4S,9bS)-golgicide A.

@@ -1,0 +1,1 @@
+The molecule is a UDP-amino sugar having N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine as the sugar component. It derives from an UDP-D-glucosamine. It is a conjugate acid of an UDP-N-acetyl-3-O-(1-carboxylatovinyl)-D-glucosamine(3-).

@@ -1,0 +1,1 @@
+The molecule is a single-stranded DNA oligonucleotide comprising two 2'-deoxyguanosine residues connected by a 3'->5 linkage and with a phosphoric group at the 5'-terminus. It has a role as a Mycoplasma genitalium metabolite. It is a single-stranded DNA oligonucleotide and a 5'-phospho-(3'->5')-dinucleotide.

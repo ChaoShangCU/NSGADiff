@@ -1,0 +1,1 @@
+The molecule is an octadec-9-enoic acid in which the double bond at C-9 has Z (cis) stereochemistry. It has a role as an EC 3.1.1.1 (carboxylesterase) inhibitor, an Escherichia coli metabolite, a plant metabolite, a Daphnia galeata metabolite, a solvent, an antioxidant and a mouse metabolite. It is a conjugate acid of an oleate. It derives from a hydride of a cis-octadec-9-ene.

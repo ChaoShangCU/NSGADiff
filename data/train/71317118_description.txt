@@ -1,0 +1,1 @@
+The molecule is an O-acyl-L-carnitine in which the acyl group is specified as glutaroyl. It has a role as a human metabolite. It derives from a glutaric acid.

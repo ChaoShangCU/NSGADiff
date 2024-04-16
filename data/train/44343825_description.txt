@@ -1,0 +1,1 @@
+The molecule is a N-acylethanolamine phosphate in which the acyl group is specifed as (9Z)-octadec-9-enoyl. It is a lysophosphatidic acid-1 (LPA1) receptor agonist. It derives from an oleic acid.

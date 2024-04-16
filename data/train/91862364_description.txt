@@ -1,0 +1,1 @@
+The molecule is a trisaccharide consisting of alpha-L-fucopyranose and beta-D-galactose residues joined by a (1->4) glycosidic bond in which the hydroxy group at position 3 of the galactopyranose ring has been converted into the corresponding beta-D-glucopyranosyl derivative.

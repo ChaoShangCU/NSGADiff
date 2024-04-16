@@ -1,0 +1,1 @@
+The molecule is a phenolate anion obtained by deprotonation of the hydroxy group located at the position ortho to the carbonyl group of isoliquiritigenin. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of an isoliquiritigenin.

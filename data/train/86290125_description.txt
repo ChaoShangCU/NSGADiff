@@ -1,0 +1,1 @@
+The molecule is a UDP-glycopeptide in which the glycopeptide component consists of N(6)-(N-acetyl-alpha-D-muramoyl-L-alanyl-D-gamma-glutamyl)-D-lysine, joined to UDP via a glycosyl diphosphate bond. It is a conjugate acid of a N(6)-(UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-D-gamma-glutamyl)-D-lysine(3-).

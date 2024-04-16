@@ -1,0 +1,1 @@
+The molecule is a C5-acylcarnitine in which the acyl group specified is pivaloyl. It has a role as a metabolite. It derives from a pivalic acid.

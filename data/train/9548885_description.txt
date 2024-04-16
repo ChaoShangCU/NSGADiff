@@ -1,0 +1,1 @@
+The molecule is a HPETE that is (5Z,8Z,10E,12R,14Z)-icosa-5,8,10,14-tetraenoic acid with the hydroperoxy group located at position 12 (the R-enantiomer). It has a role as a mouse metabolite. It derives from an icosa-5,8,10,14-tetraenoic acid. It is a conjugate acid of a 12(R)-HPETE(1-). It is an enantiomer of a 12(S)-HPETE.

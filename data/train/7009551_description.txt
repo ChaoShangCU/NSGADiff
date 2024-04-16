@@ -1,0 +1,1 @@
+The molecule is a peptide cation obtained by deprotonation of the carboxy terminus and protonation of the side-chain guanidino group and the amino terminus of Phe-Arg; major species at pH 7.3. It is a conjugate acid of a Phe-Arg.

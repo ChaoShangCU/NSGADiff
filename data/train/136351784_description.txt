@@ -1,0 +1,1 @@
+The molecule is a tricarboxylic acid anion obtained by deprotonation of the three carboxy groups as well as the 5-hydroxy group of pyrroloquinoline quinol; major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a pyrroloquinoline quinol and a pyrroloquinoline quinol(3-).

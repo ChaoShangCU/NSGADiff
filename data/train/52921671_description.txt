@@ -1,0 +1,1 @@
+The molecule is a branched hexasaccharide consisting of alpha-D-Man at the reducing end having alpha-D-Gal-(1->2)-alpha-D-Gal-(1->6)-alpha-D-Gal and alpha-D-Man-(1->2)-alpha-D-Man groups attached at the 3- and 6-positions respectively.

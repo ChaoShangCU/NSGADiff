@@ -1,0 +1,1 @@
+The molecule is a 1-O-acyl-N-acylsphingosine in which the N- and O-acyl groups are specified as acetyl and (4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl respectively. It derives from a N-acetylsphingosine and an all-cis-docosa-4,7,10,13,16,19-hexaenoic acid.

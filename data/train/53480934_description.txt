@@ -1,0 +1,1 @@
+The molecule is a lysophosphatidylethanolamine 20:3 in which the acyl group is specified as (5Z,8Z,11Z)-icosatrienoyl and is located at position 2. It has a role as a mouse metabolite. It is a lysophosphatidylethanolamine 20:3 and a 2-acyl-sn-glycero-3-phosphoethanolamine. It derives from a (5Z,8Z,11Z)-icosatrienoic acid.

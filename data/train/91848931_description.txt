@@ -1,0 +1,1 @@
+The molecule is a trisaccharide consisting of an alpha-D-glucopyranose and two alpha-D-galactopyranose residues joined in sequence by (1->6) and (1->2) glycosidic bonds.

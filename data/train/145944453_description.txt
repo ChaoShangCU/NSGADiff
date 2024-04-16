@@ -1,0 +1,1 @@
+The molecule is i have included the stereoconfiguration seen in fig. 2 of pmid:30952781 even though I cannot find direct evidence for it. I think it is based on compound 10. Please update the structure according to the evidence you trust.

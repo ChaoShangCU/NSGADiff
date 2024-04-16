@@ -1,0 +1,1 @@
+The molecule is a glucosiduronic acid derivative formed by linkage of beta-D-glucosiduronic acid with the 5'-oxygen of abacavir. One of the two major metabolites of abacavir in humans (the other is the 5'-carboxylic acid, CHEBI:64192). It has a role as a metabolite. It derives from an abacavir.

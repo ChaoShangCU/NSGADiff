@@ -1,0 +1,1 @@
+The molecule is a branched amino trisaccharide that is D-galactopyranose in which the hydroxy groups at positions 3 and 4 have been converted into the corresponding 2-acetamido-2-deoxy-alpha-D-glucopyranosyl and beta-D-mannopyranosyl derivatives, respectively. It is an amino trisaccharide and a member of acetamides. It derives from a beta-D-Manp-(1->4)-D-Galp.

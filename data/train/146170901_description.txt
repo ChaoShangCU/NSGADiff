@@ -1,0 +1,1 @@
+The molecule is a phosphatidylethanolamine 35:3 zwitterion in which the acyl groups at positions 1 and 2 are specified as 10Z-heptadecenoyl and linoleoyl respectively. It is a 1-acyl-2-linoleoyl-sn-glycero-3-phosphoethanolamine zwitterion and a phosphatidylethanolamine 35:3 zwitterion.

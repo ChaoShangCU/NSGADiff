@@ -1,0 +1,1 @@
+The molecule is a 1-O-acyl-N-acylsphingosine in which the N- and O-acyl groups are specified as acetyl and arachidonoyl respectively. It derives from a N-acetylsphingosine and an arachidonic acid.

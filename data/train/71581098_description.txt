@@ -1,0 +1,1 @@
+The molecule is a 2-(3-amino-3-carboxypropyl)-L-histidine in which position 3 on the side-chain has S-configuration. It is a tautomer of a 2-[(3S)-3-amino-3-carboxypropyl]-L-histidine dizwitterion.

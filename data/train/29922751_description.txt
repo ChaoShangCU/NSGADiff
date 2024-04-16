@@ -1,0 +1,1 @@
+The molecule is a organophosphonate oxoanion obtained by removal of a proton from the phosphonate group of cidofovir. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a member of cidofovir anhydrous. It is a conjugate acid of a cidofovir(2-).

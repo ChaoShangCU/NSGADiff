@@ -1,0 +1,1 @@
+The molecule is an UDP-sugar. It has a role as an Escherichia coli metabolite. It is a conjugate acid of an UDP-beta-L-threo-pentopyranos-4-ulose(2-).

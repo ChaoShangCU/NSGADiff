@@ -1,0 +1,1 @@
+The molecule is a glucotriose consisting of alpha-D-glucopyranose, beta-D-glucopyranose and D-glucopyranose residues joined in sequence by (1->6) glycosidic bonds. It derives from a gentiobiose.

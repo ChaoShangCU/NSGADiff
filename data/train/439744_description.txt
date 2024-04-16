@@ -1,0 +1,1 @@
+The molecule is the monoiodotyrosine that is L-tyrosine carrying an iodo-substituent at position C-3 of the benzyl group. It has a role as a human metabolite, an EC 1.14.16.2 (tyrosine 3-monooxygenase) inhibitor and a mouse metabolite. It is a L-tyrosine derivative, a non-proteinogenic L-alpha-amino acid and a monoiodotyrosine. It is a tautomer of a 3-iodo-L-tyrosine zwitterion.

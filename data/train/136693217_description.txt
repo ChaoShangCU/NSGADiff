@@ -1,0 +1,1 @@
+The molecule is a purine ribonucleoside 5'-triphosphate that is GTP substituted at the 2' position by an N-methylanthraniloyl group. It has a role as a fluorescent probe. It derives from a 2'-MANT-GDP.

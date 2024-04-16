@@ -1,0 +1,1 @@
+The molecule is an amino tetrasaccharide that is alpha-L-Fucp-(1->2)-beta-D-Galp-(1->3)-beta-D-GlcpNAc in which the hydroxy group at position 6 of the acetamidoglucosyl group has been glycosylated by a 2-acetamido-beta-D-galactopyranosyl group. It derives from an alpha-L-Fucp-(1->2)-beta-D-Galp-(1->3)-beta-D-GlcpNAc.

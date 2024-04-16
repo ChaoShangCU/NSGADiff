@@ -1,0 +1,1 @@
+The molecule is an organic anion obtained by removal of the acidic proton from position 8 of mitomycin B. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a mitomycin B.

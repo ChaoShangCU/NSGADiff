@@ -1,0 +1,1 @@
+The molecule is a 1-alkylglycero-3-phosphocholine in which the alkyl group is specified as octadecyl. It has a role as a human metabolite.

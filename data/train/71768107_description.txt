@@ -1,0 +1,1 @@
+The molecule is a cyclic oligonucleotide consisting of TGCGAATTCGCT and TGCGAATTCGCT strands of DNA linked by hydrogen bonding between the base pairs and also covalently via two disulfanediyldiethane-1,2-diyl linkages between the N-3 atoms of the terminal thymidine residues.

@@ -1,0 +1,1 @@
+The molecule is a 1-acyl-sn-glycero-3-phosphoethanolamine in which the acyl group is specified as 8Z,11Z,14Z,17Z-eicosapentaenoyl (omega-3-arachidonoyl). It has a role as a metabolite. It is a 1-acyl-sn-glycero-3-phosphoethanolamine and a lysophosphatidylethanolamine 20:4. It derives from an all-cis-8,11,14,17-icosatetraenoic acid.

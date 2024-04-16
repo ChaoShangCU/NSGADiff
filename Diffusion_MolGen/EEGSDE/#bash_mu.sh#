@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Define the output file
+OUTPUT_FILE="output_mu.txt"
+
+# Clear the output file if it exists
+> $OUTPUT_FILE
+
+# Define the base command without the -l argument
+BASE_COMMAND="python run_EEGSDE_single_property.py --exp_name eegsde_mu --property mu --generators_path pretrained_models/cEDM_mu/generative_model_ema_2020.npy --args_generators_path pretrained_models/cEDM_mu/args_2020.pickle --energy_path pretrained_models/predict_mu/model_ema_2000.npy --args_energy_path pretrained_models/predict_mu/args_2000.pickle --classifiers_path pretrained_models/evaluate_mu/best_checkpoint.npy --args_classifiers_path pretrained_models/evaluate_mu/args.pickle --batch_size 50 --iterations 20 --save True"
+
+# Array of -l values
+L_VALUES=("1.0" "0.5" "2.0")
+
+# Loop through the array and run the command for each value of -l
+for l_value in "${L_VALUES[@]}"
+do
+    echo "Running with -l $l_value..." >> $OUTPUT_FILE
+    eval "${BASE_COMMAND} --l $l_value" >> $OUTPUT_FILE 2>&1
+    echo "Completed run with -l $l_value." >> $OUTPUT_FILE
+done
+
+echo "All runs completed!" >> $OUTPUT_FILE
+

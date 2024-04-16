@@ -1,0 +1,1 @@
+The molecule is an organophosphate oxoanion obtained by the deprotonation of the carboxy and one of the phosphate OH groups as well as protonation of the amino group of glyphosate. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a glyphosate. It is a conjugate acid of a glyphosate(2-).

@@ -1,0 +1,1 @@
+The molecule is a glycopolymer composed of a poly(glycerol phosphate) backbone which is randomly glycosylated by alpha-D-glucosyl residues at the secondary hydroxy positions. It is a conjugate acid of an O-(alpha-D-glucosyl) poly[glycerol phosphate(1-)].

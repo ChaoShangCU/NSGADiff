@@ -1,0 +1,1 @@
+The molecule is a three-membered linear oligosaccharide sulfate that consists of a 2-O-sulfo-L-idopyranuronic acid residue flanked by two 6-O-sulfo-2-(sulfoamino)-D-glucopyranose residues, connected via alpha-(1->4)-linkages.

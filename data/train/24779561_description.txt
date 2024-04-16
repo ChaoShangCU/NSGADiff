@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-sn-glycerol 3-phosphate in which the 1- and 2-acyl substituent are specified as palmitoyl and (4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl respectively. It derives from a hexadecanoic acid and an all-cis-docosa-4,7,10,13,16,19-hexaenoic acid. It is a conjugate acid of a 1-palmitoyl-2-[(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl]-sn-glycero-3-phosphate(2-).

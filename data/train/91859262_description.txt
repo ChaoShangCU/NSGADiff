@@ -1,0 +1,1 @@
+The molecule is an amino tetrasaccharide consisting that is alpha-L-fucopyranosyl-(1->3)-beta-D-galactopyranosyl-(1->4)]-2-acetamido-2-deoxy-D-glucopyranose in which the 2-acetaminoglucopyranose moiety has been glycosylated at position 3 by an alpha-L-fucopyranosyl group. It derives from an alpha-L-Fucp-(1->3)-[beta-D-Galp-(1->4)]-D-GlcpNAc.

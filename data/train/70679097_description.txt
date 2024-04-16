@@ -1,0 +1,1 @@
+The molecule is an amino tetrasaccharide comprised of a linear sequence of beta-D-galactose, N-acetyl-beta-D-glucosamine, beta-D-galactose and N-acetyl-beta-D-glucosamine residues linked (1->4), (1->6), (1->4) and (1->6). It has a role as an epitope. It is an amino tetrasaccharide and a glucosamine oligosaccharide.

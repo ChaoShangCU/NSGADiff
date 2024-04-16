@@ -1,0 +1,1 @@
+The molecule is a linear tetrasaccharide consisting of two adjacent D-galactose residues and two adjacent beta-D-glucose residues (one at the reducing end) joined by (1->4) linkages.

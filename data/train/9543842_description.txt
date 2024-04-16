@@ -1,0 +1,1 @@
+The molecule is a diacylglycerol 40:5 in which the acyl groups specified are icosanoyl and (5Z,8Z,11ZZ,14Z,17Z)-eicosapentaenoyl respectively, It is a diacylglycerol 40:5 and a 1,2-diacyl-sn-glycerol. It derives from an icosanoic acid and an all-cis-5,8,11,14,17-icosapentaenoic acid.

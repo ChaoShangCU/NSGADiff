@@ -1,0 +1,1 @@
+The molecule is a glycosylglucose consisting of beta-D-xylofuranose and beta-D-glucopyranose residues joined in sequence by a (1->6) glycosidic bond. It derives from a beta-D-xylofuranose and a beta-D-glucose.

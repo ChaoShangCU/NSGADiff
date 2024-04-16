@@ -1,0 +1,1 @@
+The molecule is a class of mycolic acids characterized by the presence of a proximal cis C=C double bond followed by a cis-cyclopropyl group, a distal oxo group and a (CH-CH3) fragment of (S) stereochemistry in the meromycolic chain. It is a conjugate acid of a ketomycolate type-3 (XIII').

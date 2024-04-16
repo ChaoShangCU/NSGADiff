@@ -1,0 +1,1 @@
+The molecule is a glycosylglucose where the glycosyl component is D-glycero-alpha-D-manno-heptopyranose attached via an alpha-(1->6)-linkage; the epitope of the lipooligosaccharide isolated from Haemophilus ducreyi strain ITM 2665. It has a role as an epitope.

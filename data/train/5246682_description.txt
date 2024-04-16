@@ -1,0 +1,1 @@
+The molecule is an organic cation obtained by protonation of one of the three ring nitrogens of melamine. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It has a role as a xenobiotic metabolite. It is a conjugate acid of a melamine.

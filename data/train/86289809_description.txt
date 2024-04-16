@@ -1,0 +1,1 @@
+The molecule is an acyl-CoA oxoanion arising from deprotonation of phosphate and diphosphate functions as well as protonation of the amino group of (3R)-3-ammonio-3-phenylpropanoyl-CoA(3-). It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a (3R)-3-amino-3-phenylpropanoyl-CoA.

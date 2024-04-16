@@ -1,0 +1,1 @@
+The molecule is a 4-(1-hydroxy-2-{[4-(4-hydroxyphenyl)butan-2-yl]amino}ethyl)phenol in which the carbon bearing the hydroxy group has S configuration while the remaining stereocentre has R configuration. It is an enantiomer of a 4-[(1R)-1-hydroxy-2-{[(2S)-4-(4-hydroxyphenyl)butan-2-yl]amino}ethyl]phenol.

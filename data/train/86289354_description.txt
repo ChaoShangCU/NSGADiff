@@ -1,0 +1,1 @@
+The molecule is an oxonium betaine obtained by deprotonation of the 5-hydroxy group of cyanidin 3-O-(6-O-glucosyl-2-O-xylosylgalactoside). It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a cyanidin 3-O-(6-O-glucosyl-2-O-xylosylgalactoside).

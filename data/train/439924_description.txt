@@ -1,0 +1,1 @@
+The molecule is a pyridine nucleoside consisting of nicotinamide with a beta-D-ribofuranosyl moiety at the 1-position. It has a role as a human metabolite, a Saccharomyces cerevisiae metabolite and a mouse metabolite. It is a N-glycosylnicotinamide and a pyridine nucleoside.

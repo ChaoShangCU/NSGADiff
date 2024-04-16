@@ -1,0 +1,1 @@
+The molecule is a 2-acyl-sn-glycero-3-phosphocholine in which the acyl group is specified as (5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dien-1-oyl It has a role as a human xenobiotic metabolite and a mouse metabolite. It is a 2-acyl-sn-glycero-3-phosphocholine and a prostanoid. It derives from a prostaglandin E2.

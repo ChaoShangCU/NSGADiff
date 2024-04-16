@@ -1,0 +1,1 @@
+The molecule is a heptasaccharide derivative composed of a 5-deoxy-5-(methylsulfanyl)xylofuranose, two mannopyranose and four arabinofuranose residues in an alpha(1->4), alpha(1->2), alpha(1->5), beta(1->2), alpha(1->5) and alpha(1->5) linear sequence.

@@ -1,0 +1,1 @@
+The molecule is a UDP-N-acetyl-mannosaminouronic acid in which the N-acetyl-mannosaminouronic acid fragment has D-configuration. It derives from a N-acetyl-D-mannosaminouronic acid. It is a conjugate acid of an UDP-N-acetyl-D-mannosaminouronate(3-).

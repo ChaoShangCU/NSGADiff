@@ -1,0 +1,1 @@
+The molecule is a linear amino tetrasaccharide comprising two alpha-N-glycoloylneuraminyl residues, a beta-D-galactose residue and (at the reducing end) an N-acetyl-D-glucosamine residue, linked sequentially (2->8), (2->6) and (1->4).

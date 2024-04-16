@@ -1,0 +1,1 @@
+The molecule is an organic anion obtained by deprotonation of the hydroxy group of 2-hydroxy-5-methylquinone. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a 2-hydroxy-5-methylquinone.

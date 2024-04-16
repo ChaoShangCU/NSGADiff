@@ -1,0 +1,1 @@
+The molecule is a 1-(alk-1-enyl)-2-acyl-sn-glycero-3-phosphate in which the alk-1-enyl and acyl groups are specified as (1Z)-octadecenyl and oleoyl respectively. It derives from an oleic acid. It is a conjugate acid of a 1-[(1Z)-octadecenyl]-2-oleoyl-sn-glycero-3-phosphate(2-).

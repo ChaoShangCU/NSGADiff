@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-sn-glycero-3-phosphoethanolamine in which the 1- and 2-acyl groups are specified as (6Z,9Z,12Z,15Z)-octadecatetraenoyl and (15Z)-tetracosenoyl respectively. It has a role as a metabolite.

@@ -1,0 +1,1 @@
+The molecule is an amino trisaccharide that is alpha-D-galactopyranose in which the hydroxy groups at positions 2 and 3 have been glycosylated by alpha-L-fucopyranosyl and 2-acetamido-alpha-D-galactopyranosyl groups, respectively. It is an amino trisaccharide and a member of acetamides. It derives from an alpha-D-GalpNAc-(1->3)-alpha-D-Galp.

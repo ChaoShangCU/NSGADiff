@@ -1,0 +1,1 @@
+The molecule is a glycoside that is beta-D-Gal-(1->4)-[beta-D-Gal-(1->4)-beta-D-Glc-(1->6)]-beta-D-GlcNAc in which the hydroxy group at the reducing-end anomeric centre is replaced by a 3-azaniumylpropyl group. It is a glycoside and a primary ammonium ion. It derives from a beta-D-Galp-(1->4)-[beta-D-Galp-(1->4)-beta-D-Glcp-(1->6)]-beta-D-GlcpNAc.

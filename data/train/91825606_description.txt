@@ -1,0 +1,1 @@
+The molecule is an O-acyl-L-carnitine in which the acyl group is specified as malonyl. It has a role as a metabolite. It derives from a malonic acid. It is an enantiomer of an O-malonyl-D-carnitine.

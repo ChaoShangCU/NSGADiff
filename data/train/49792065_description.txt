@@ -1,0 +1,1 @@
+The molecule is an arabinotetraose in which the four arabinofuranose residues are in a beta(1->2), alpha(1->5) and alpha(1->5) linear sequence (with alpha-configuration at the reducing end). Corresponds to part of the lipoarabinomannam from Mycobacterium leprae and M. tuberculosis. It has a role as an epitope.

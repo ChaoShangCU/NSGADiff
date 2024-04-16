@@ -1,0 +1,1 @@
+The molecule is a branched amino pentasaccharide consisting of an N-acetyl-alpha-D-galactosaminyl-(1->2)-beta-D-mannosyl-(1->4)-alpha-D-mannosyl-(1->5)-3-deoxy-alpha-D-manno-oct-2-ulosonic acid tetrasaccharide chain, to the alpha-D-mannosyl residue of which is also linked beta(1->2) a D-glucosyl residue. Epitope of Francisella tularensis. It has a role as an epitope.

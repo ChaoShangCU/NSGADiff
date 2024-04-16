@@ -1,0 +1,1 @@
+The molecule is a branched nonasaccharide consisting of a chain of five D-arabinofuranose and three D-mannopyranose residues linked sequentially alpha(1->5), alpha(1->5), alpha(1->5), alpha(1->5), alpha(1->2), alpha(1->6) and alpha(1->6), with a further D-mannopyranose residue linked alpha(1->2) to the mannose residue proximal to the reducing-end mannose.

@@ -1,0 +1,1 @@
+The molecule is a polynucleotide comprised of 2'-deoxyadenosine units connected via 3'->5' phosphodiester linkages. It is sometimes attached to eukaryotic messenger RNA and stabilizes the molecule before transport from the nucleus into the cytoplasm. It contains a 2'-deoxyadenosine 5'-monophosphate residue, a dAMP 3'-end residue and a dAMP 5'-end residue.

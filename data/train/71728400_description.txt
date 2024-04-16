@@ -1,0 +1,1 @@
+The molecule is a C13 straight-chain saturated fatty acid where the aliphatic hydrogens have been replaced by deuterium atoms. It is a long-chain fatty acid, a straight-chain saturated fatty acid and a deuterated fatty acid. It derives from a tridecanoic acid.

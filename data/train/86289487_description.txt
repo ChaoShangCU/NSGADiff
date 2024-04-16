@@ -1,0 +1,1 @@
+The molecule is an N-acylsphingosine-1-phosphoethanolamine in which the N-acyl group is specified as hexanoyl. It derives from a hexanoic acid. It is a tautomer of a N-hexanoylsphingosine-1-phosphoethanolamine zwitterion.

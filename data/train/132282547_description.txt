@@ -1,0 +1,1 @@
+The molecule is a (2'->5')-dinucleotide composed of two adenosine residues with a triphosphate group at the 5' terminus. It has a role as an antiviral agent and a bacterial metabolite. It is a conjugate acid of a 5'-triphosphoadenylyl-(2'->5')-adenosine(5-).

@@ -1,0 +1,1 @@
+The molecule is a lysophosphatidylcholine(0:0/16:1) in which the 2-acyl group is specified as (9Z)-hexadecenoyl. It is a lysophosphatidylcholine(0:0/16:1), a palmitoleic acid and a [(9Z)-hexadecenoyl]-sn-glycero-3-phosphocholine.

@@ -1,0 +1,1 @@
+The molecule is a trisaccharide consisting of beta-D-galactopyranose, alpha-D-galactopyranose and beta-D-glucopyranose residues joined in sequence by (1->4) glycosidic bonds. It derives from an alpha-D-Galp-(1->4)-beta-D-Glcp and a beta-D-Galp-(1->4)-alpha-D-Galp.

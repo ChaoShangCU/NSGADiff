@@ -1,0 +1,1 @@
+The molecule is an organophosphate oxoanion obtained by deprotonation of the phosphate, carboxy and 3-imido groups of 8-formyl-8-demethylriboflavin 5'-phosphate. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is an organophosphate oxoanion and an aromatic carboxylate. It is a conjugate base of an 8-carboxy-8-demethylriboflavin 5'-phosphate.

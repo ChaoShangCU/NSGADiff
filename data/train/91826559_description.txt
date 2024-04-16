@@ -1,0 +1,1 @@
+The molecule is a 17-membered homodetic cyclic peptide comprising the sequence -Arg-Thr-Pro-Glu-Asp-Pro-Val-Val-His-Phe-Phe-Tyr-Asp-Ile-Val-Thr-Pro-. Cyclic analogue with head-to-tail cyclisation of the myelin basic protein 83-99 (MBP83-99) immunodominant epitope with the lysyl residue at position 91 replaced by tyrosyl [MBP83-99(Y(91))].

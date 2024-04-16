@@ -1,0 +1,1 @@
+The molecule is a 1-(1Z-alkenyl)-2-acyl-sn-glycero-3-phospho-L-serine(1-) in which the alk-1-enyl and acyl groups are specified as (1Z)-octadecenyl and (4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl respectively. It is a conjugate base of a 1-(1Z-octadecenyl)-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphoserine.

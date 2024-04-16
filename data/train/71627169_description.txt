@@ -1,0 +1,1 @@
+The molecule is a single-stranded DNA oligonucleotide containing four consecutive thymidyl residues, T1, T2, T3 and T4, arranged in the direction from the 5'-terminus to the 3'-terminus, with a (6-4) lesion at the central T2 and T3 residues. It has a role as an epitope.

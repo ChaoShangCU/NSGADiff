@@ -1,0 +1,1 @@
+The molecule is a 1-alkyl-3-acylglycerol in which the alkyl and acyl groups are specified as palmityl (hexadecyl) and oleoyl. It derives from an oleic acid and a 1-O-palmitylglycerol.

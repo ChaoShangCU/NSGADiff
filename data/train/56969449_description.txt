@@ -1,0 +1,1 @@
+The molecule is an amino disaccharide consisting of two 2-acetamido-2-deoxy-D-glucopyranose residues joined by a (1->4) glycosidic bond. The stereochemistry at the anomeric centre of each D-GlcpNAc moiety is not stated. It is a partially-defined glycan, an amino disaccharide and a member of acetamides.

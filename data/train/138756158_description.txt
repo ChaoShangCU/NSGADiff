@@ -1,0 +1,1 @@
+The molecule is a 7-methyl guanosine (m7G) linked via an inverted 5'-5' triphosphate bridge to an adenosine ribonucleotide; major species at pH 7.3.

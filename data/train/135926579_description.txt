@@ -1,0 +1,1 @@
+The molecule is a GDP-sugar having 4-dehydro-3,6-dideoxy-alpha-D-mannose as the sugar fragment. It derives from a GDP-alpha-D-mannose. It is a conjugate acid of a GDP-4-dehydro-3,6-dideoxy-alpha-D-mannose(2-).

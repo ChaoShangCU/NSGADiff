@@ -1,0 +1,1 @@
+The molecule is an amino trisaccharide consisting of 2-acetamido-2-deox-beta-D-glucoyranosyl, beta-D-mannopyranosyl and 2-acetamido-2-deoxy-D-glucopyranosyl residues joined in sequence by (1->4) glycosidic linkages. It is an amino sugar, an amino trisaccharide and a member of acetamides. It derives from a beta-D-Manp-(1->4)-D-GlcpNAc.

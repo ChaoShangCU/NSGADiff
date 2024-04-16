@@ -1,0 +1,1 @@
+The molecule is an AMP-sugar in which the hydrogen at position 1 of AMP is substituted by a 5-phospho-beta-D-ribosyl group. It has a role as an Escherichia coli metabolite. It is a conjugate acid of a 1-(5-phosphonato-beta-D-ribosyl)-5'-AMP(4-).

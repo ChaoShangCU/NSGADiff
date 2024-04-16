@@ -1,0 +1,1 @@
+The molecule is a galactotriose that is beta-D-galactopyranose in which the hydroxy groups at positions 2 and 6 have been converted to the corresponding beta-D-galactopyranosyl derivatives. It derives from a beta-D-Galp-(1->2)-beta-D-Galp and a beta-(1->6)-galactobiose.

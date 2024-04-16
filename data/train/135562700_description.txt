@@ -1,0 +1,1 @@
+The molecule is a (3'->5')-dinucleotide composed from guanosine and cytidine units. It is a guanyl ribonucleotide and a (3'->5')-dinucleotide. It is a conjugate acid of a guanylyl-(3'->5')-cytidine(1-).

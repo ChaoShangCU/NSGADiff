@@ -1,0 +1,1 @@
+The molecule is a 1,3-diglyceride in which the acyl groups at positions 1 and 3 are specified as oleoyl and palmitoyl respectively. It derives from a hexadecanoic acid and an oleic acid.

@@ -1,0 +1,32 @@
+#!/bin/bash
+e 50 --iterations 200 --save True"
+
+# Properties and their corresponding L-values
+declare -A PROPERTY_L_VALUES
+PROPERTY_L_VALUES=( ["Cv"]="1.0 5.0 10.0" ["alpha"]="0.5 1.0 3.0" ) 
+
+# Loop through each property and its L-values
+for property in "${!PROPERTY_L_VALUES[@]}"
+do
+    # Create a specific output file name for this property
+    OUTPUT_FILE=$(printf "$BASE_OUTPUT_FILE" "$property")
+    # Clear the output file if it exists
+    > $OUTPUT_FILE
+
+    # Get the L-values for this property
+    L_VALUES=(${PROPERTY_L_VALUES[$property]})
+
+    # Loop through the L-values for this property and run the command
+    for l_value in "${L_VALUES[@]}"
+    do
+        echo "Running $property with -l $l_value..." >> $OUTPUT_FILE
+        # Use printf to substitute values into the BASE_COMMAND string
+        eval $(printf "$BASE_COMMAND" $property $property $property $property $property $property $property $property) --l $l_value >> $OUTPUT_FILE 2>&1
+        echo "Completed $property run with -l $l_value." >> $OUTPUT_FILE
+    done
+    echo "$property runs completed!" >> $OUTPUT_FILE
+done
+
+echo "All property runs completed!"
+
+

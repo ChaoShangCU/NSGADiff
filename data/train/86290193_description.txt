@@ -1,0 +1,1 @@
+The molecule is an organophosphate oxoanion that is CMP(2-) in which the 2-keto group on the cytosine ring is substituted by an epsilon-L-lysyl residue. Major structure at pH 7.3 (according to Marvin v. 6.2.0). It is a conjugate base of a lysidine monophosphate.

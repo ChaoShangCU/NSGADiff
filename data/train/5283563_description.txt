@@ -1,0 +1,1 @@
+The molecule is a N-acylsphingosine in which the ceramide N-acyl group is specified as oleoyl. It has a role as a mouse metabolite. It derives from an oleic acid.

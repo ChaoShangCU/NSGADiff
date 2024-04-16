@@ -1,0 +1,1 @@
+The molecule is a phosphatidylethanolamine 37:3 in which the acyl groups at positions 1 and 2 are specified as nonadecanoyl and (9Z,12Z,15Z)-octadecatrienoyl, respectively.

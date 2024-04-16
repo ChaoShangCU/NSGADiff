@@ -1,0 +1,1 @@
+The molecule is an HPODE (hydroperoxyoctadecadienoic acid) in which the double bonds are at positions 9 and 11 (E and Z geometry, respectively) and the hydroperoxy group is at position 13. It has a role as a human xenobiotic metabolite. It is a conjugate acid of a 13-HPODE(1-).

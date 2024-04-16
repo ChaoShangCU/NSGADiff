@@ -1,0 +1,1 @@
+The molecule is a delta-lactam that is piperidine which is substituted by an oxo group at position 2. It has a role as an EC 1.2.1.88 (L-glutamate gamma-semialdehyde dehydrogenase) inhibitor. It is a member of piperidones and a delta-lactam.

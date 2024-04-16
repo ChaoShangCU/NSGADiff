@@ -1,0 +1,1 @@
+The molecule is an organic sodium salt composed of sodium and 3-(trimethylsilyl)propionate ions in a 1:1 ratio. It is used as internal reference in the NMR spectrum nuclear magnetic resonance for aqueous solvents (e.g. D2O). It contains a 3-(trimethylsilyl)propionate.

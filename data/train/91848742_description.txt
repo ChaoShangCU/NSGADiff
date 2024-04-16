@@ -1,0 +1,1 @@
+The molecule is a glycosylglucose consisting of an beta-L-fucopyranose residue and a beta-D-glucopyranose residue joined in sequence by a (1->2) glycosidic bond. It derives from a beta-D-glucose and a beta-L-fucose.

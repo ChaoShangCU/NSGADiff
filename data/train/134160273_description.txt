@@ -1,0 +1,1 @@
+The molecule is a 3-[beta-D-glucopyranosyl-(1->6)-beta-D-galactopyranosyl]-1,2-diacyl-sn-glycerol in which the acyl groups at O-1 and O-2 are both acetyl. A synthetic acyl homologue of the beta-glycolipid antigens (beta-GGLs) of Mycoplasma pneumoniae.

@@ -1,0 +1,1 @@
+The molecule is a trisaccharide consisting of three mannopyranose residues linked beta(1->2), of which the residue at the reducing end is dehydroxylated at C-4.

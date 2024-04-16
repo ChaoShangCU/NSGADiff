@@ -1,0 +1,1 @@
+The molecule is a beta-D-galactosyl-(1<->1')-N-acylsphinganine in which the acyl group is specified as octadecanoyl. It has a role as a mouse metabolite. It derives from an octadecanoic acid.

@@ -1,0 +1,1 @@
+The molecule is an NDP-alpha-D-glucose(2-) arising from deprotonation of the diphosphate OH groups of UDP-D-glucose; major species at pH 7.3. It has a role as a human metabolite and a Saccharomyces cerevisiae metabolite. It is a conjugate base of an UDP-D-glucose.

@@ -1,0 +1,1 @@
+The molecule is an N-acetyl-alpha-neuraminyl-(2->6)-N-acetyl-D-galactosamine in which the carbon bearing the anomeric hydroxy group has alpha configuration. It has a role as an epitope. It derives from a N-acetyl-alpha-D-galactosamine and a N-acetyl-alpha-neuraminic acid.

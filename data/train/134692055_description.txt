@@ -1,0 +1,1 @@
+The molecule is a heparan sulfate octasaccharide with sequence: GlcA-GlcNSO3-IdoA(2-OSO3)-GlcNSO3(6-OSO3)-IdoA(2-OSO3)-GlcNSO3-GlcA-aManR (aManR = 2,5-anhydro-D-mannitol). It is a heparan sulfate octasaccharide, an amino octasaccharide and an oligosaccharide sulfate.

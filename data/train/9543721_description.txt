@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-sn-glycerol in which the 1- and 2-acyl groups are specified as palmitoyl and (11Z,14Z)-eicosadienoyl respectively. It has a role as a mouse metabolite. It derives from an (11Z,14Z)-icosadienoic acid and a hexadecanoic acid.

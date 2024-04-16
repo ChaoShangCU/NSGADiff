@@ -1,0 +1,1 @@
+The molecule is a trisaccharide consisting of beta-D-xylopyranose, alpha-L-arabinopyranose and beta-D-glucopyranose joined together in sequence by (1->2) and (1->6)-glycosidic bonds, respectively. It derives from an alpha-L-Arap-(1->6)-beta-D-Glcp.

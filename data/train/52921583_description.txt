@@ -1,0 +1,1 @@
+The molecule is an amino trisaccharide comprising two alpha-N-acetylneuraminyl residues joined by a (2->8)-linkage and attached in turn by a (2->3)-linkage to beta-D-galactose.

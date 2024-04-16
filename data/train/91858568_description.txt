@@ -1,0 +1,1 @@
+The molecule is a tetrasaccharide consisting of three beta-D-galactopyranosyl residues and a D-glucopyranosyl residue joined in sequence by three (1->4) glycosidic bonds. It derives from a beta-D-Galp-(1->4)-beta-D-Galp-(1->4)-D-Glcp and a beta-(1->4)-galactotriose.

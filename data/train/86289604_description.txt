@@ -1,0 +1,1 @@
+The molecule is a linear trisaccharide comprising two L-glycero-alpha-D-manno-heptose residues and a 3-deoxy-alpha-D-manno-oct-2-ulosonic acid (2-keto-3-deoxy-alpha-D-mannooctanoic acid, alpha-Kdo) residue in a (1->3), (1->5) sequence.

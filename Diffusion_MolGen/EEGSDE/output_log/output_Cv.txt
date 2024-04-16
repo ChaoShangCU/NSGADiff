@@ -1,0 +1,167 @@
+Running Cv with -l 10.0...
+2023-11-13 11:19:48,684 - args_path:pretrained_models/cEDM_Cv/args.pickle
+2023-11-13 11:19:48,685 - argse_path:pretrained_models/predict_Cv/args.pickle
+2023-11-13 11:19:48,687 - Dataset exists and is processed.
+2023-11-13 11:19:49,405 - Removing thermochemical energy from targets zpve U0 U H G Cv
+2023-11-13 11:19:49,949 - Removing thermochemical energy from targets zpve U0 U H G Cv
+2023-11-13 11:19:49,953 - Removing thermochemical energy from targets zpve U0 U H G Cv
+/home/chao/EEGSDE/qm9/models.py:141: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  probs = Categorical(torch.tensor(probs))
+2023-11-13 11:19:51,654 - model_path:pretrained_models/cEDM_Cv/generative_model_ema.npy
+2023-11-13 11:19:51,675 - energy_path:pretrained_models/predict_Cv/model_ema.npy
+2023-11-13 11:20:55,994 - generated samples:50/10000
+2023-11-13 11:20:56,093 - Iteration 0 	 loss 0.8294
+2023-11-13 11:22:02,492 - generated samples:100/10000
+2023-11-13 11:22:02,590 - Iteration 1 	 loss 0.8713
+2023-11-13 11:23:10,541 - generated samples:150/10000
+2023-11-13 11:23:10,636 - Iteration 2 	 loss 0.8418
+2023-11-13 11:24:18,079 - generated samples:200/10000
+2023-11-13 11:24:18,179 - Iteration 3 	 loss 0.8273
+2023-11-13 11:25:25,708 - generated samples:250/10000
+2023-11-13 11:25:25,805 - Iteration 4 	 loss 0.8002
+2023-11-13 11:26:33,465 - generated samples:300/10000
+2023-11-13 11:26:33,564 - Iteration 5 	 loss 0.8037
+2023-11-13 11:27:41,213 - generated samples:350/10000
+2023-11-13 11:27:41,310 - Iteration 6 	 loss 0.8278
+2023-11-13 11:28:48,994 - generated samples:400/10000
+2023-11-13 11:28:49,091 - Iteration 7 	 loss 0.8206
+2023-11-13 11:29:56,846 - generated samples:450/10000
+2023-11-13 11:29:56,948 - Iteration 8 	 loss 0.8196
+2023-11-13 11:31:04,741 - generated samples:500/10000
+2023-11-13 11:31:04,842 - Iteration 9 	 loss 0.8258
+2023-11-13 11:32:12,590 - generated samples:550/10000
+2023-11-13 11:32:12,687 - Iteration 10 	 loss 0.8219
+[11:32:20] Explicit valence for atom # 9 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 12 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 10 N, 4, is greater than permitted
+[11:32:20] Explicit valence for atom # 13 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 13 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 7 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 3 N, 4, is greater than permitted
+[11:32:20] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 9 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 2 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 4 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 9 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 2 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 14 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 4 C, 5, is greater than permitted
+[11:32:20] Explicit valence for atom # 2 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 2 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 11 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 0 O, 3, is greater than permitted
+[11:32:21] Explicit valence for atom # 11 N, 4, is greater than permitted
+[11:32:21] Explicit valence for atom # 9 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 12 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 2 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 8 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 1 N, 4, is greater than permitted
+[11:32:21] Explicit valence for atom # 17 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 4 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 7 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 12 N, 4, is greater than permitted
+[11:32:21] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 4 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 8 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 5 N, 4, is greater than permitted
+[11:32:21] Explicit valence for atom # 13 N, 4, is greater than permitted
+[11:32:21] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 2 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 7 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:32:21] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 9 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 3 N, 4, is greater than permitted
+[11:32:22] Explicit valence for atom # 9 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 4 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 14 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 4 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 4 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 2 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 10 N, 4, is greater than permitted
+[11:32:22] Explicit valence for atom # 2 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 8 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 10 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 12 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 11 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 5 N, 4, is greater than permitted
+[11:32:22] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 3 N, 4, is greater than permitted
+[11:32:22] Explicit valence for atom # 11 N, 4, is greater than permitted
+[11:32:22] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 4 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 9 N, 4, is greater than permitted
+[11:32:22] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 11 C, 5, is greater than permitted
+[11:32:22] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 3 N, 4, is greater than permitted
+[11:32:23] Explicit valence for atom # 10 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 1 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 4 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 2 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 8 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 16 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 8 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:32:23] Explicit valence for atom # 3 C, 5, is greater than permitted
+2023-11-13 11:32:23,841 - MAE: 0.8226
+2023-11-13 11:32:23,841 - {'mol_stable': 0.6890909090909091, 'atm_stable': 0.9671472708547889}
+2023-11-13 11:32:23,841 - Novelty: 0.8483
+Entropy of n_nodes: H[N] -2.4754221439361572
+alphas2 [9.99990000e-01 9.99988000e-01 9.99982000e-01 ... 2.59676966e-05
+ 1.39959211e-05 1.00039959e-05]
+gamma [-11.51291546 -11.33059532 -10.92513058 ...  10.55863126  11.17673063
+  11.51251595]
+alphas2 [9.99990000e-01 9.99988000e-01 9.99982000e-01 ... 2.59676966e-05
+ 1.39959211e-05 1.00039959e-05]
+gamma [-11.51291546 -11.33059532 -10.92513058 ...  10.55863126  11.17673063
+  11.51251595]
+Validity over 550 molecules: 79.09%
+Uniqueness over 435 valid molecules: 100.00%
+Novelty over 435 unique valid molecules: 84.83%
+MAE: 0.8226
+Validity 0.7909, Uniqueness: 1.0000, Novelty: 0.8483
+Completed Cv run with -l 10.0.
+Cv runs completed!

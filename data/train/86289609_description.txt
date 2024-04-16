@@ -1,0 +1,1 @@
+The molecule is an acyl-CoA oxoanion that results from the removal of all five protons from the phosphate and carboxylic acid groups of 2-hydroxyglutaryl-CoA. Major structure at pH 7.3 (Marvin 6.2.0) It is a conjugate base of a 2-hydroxyglutaryl-CoA.

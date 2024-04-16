@@ -1,0 +1,1 @@
+The molecule is a methyl glycoside that is beta-D-Gal-(1->4)-[beta-D-Gal-(1->4)-beta-D-Glc-(1->6)]-beta-D-GlcNAc in which the hydroxy group at the reducing-end anomeric centre is methylated. It derives from a beta-D-Galp-(1->4)-[beta-D-Galp-(1->4)-beta-D-Glcp-(1->6)]-beta-D-GlcpNAc.

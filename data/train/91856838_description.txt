@@ -1,0 +1,1 @@
+The molecule is an amino disaccharide consisting of two alpha(2->9)-linked sialic acid units; corresponds to the repeating unit in the group C polysaccharide of Neisseria meningitidis (MenC).

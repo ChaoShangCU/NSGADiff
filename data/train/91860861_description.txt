@@ -1,0 +1,1 @@
+The molecule is a branched mannopentaose consisting of three alpha-D-mannopyranosyl residues joined in sequence by (1->2) linkages, in which the hydroxy group at position 6 of the mannose at the reducing end has been by an alpha-D-mannopyranosyl-(1->6)-alpha-D-mannopyranosyl group.

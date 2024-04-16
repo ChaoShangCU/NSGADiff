@@ -1,0 +1,1 @@
+The molecule is adenosine with the hydroxy group at C-5' substituted with a methylthio (methylsulfanyl) group. It has a role as a human metabolite, an algal metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It derives from an adenosine.

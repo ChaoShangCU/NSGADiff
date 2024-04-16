@@ -1,0 +1,1 @@
+The molecule is a branched mannopentaose consisting of alpha-D-mannosyl-(1->2)-alpha-D-mannosyl-(1->2)-D-mannosewhere the mannosyl residue at the non-reducing end has two further alpha-D-mannosyl residues attached at positions 3 and 6 respectively.

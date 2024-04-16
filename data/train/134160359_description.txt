@@ -1,0 +1,1 @@
+The molecule is an ionic polymer resulting from the deprotonation of the terminal carboxy groups of poly(2,5-ethylene furandicarboxylate) polymer. The structure of the conjugated acid CHEBI:55310 is not following the current format It is a conjugate base of a poly(2,5-ethylene furandicarboxylate).

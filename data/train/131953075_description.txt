@@ -1,0 +1,1 @@
+The molecule is a heparin disaccharide that is 6-O-sulfo-alpha-D-glucosamine in which the hydroxy group at position 4 has been glycosylated by 2-O-sulfo-alpha-L-idopyranuronic acid. Sequence: IdoA(2-OSO3)-GlcN(6-OSO3). It is a heparin disaccharide, an oligosaccharide sulfate and an amino disaccharide.

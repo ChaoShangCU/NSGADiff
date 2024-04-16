@@ -1,0 +1,1 @@
+The molecule is a triple-stranded DNA polynucleotide consisting of two strands of thymidine and residues, with a complementary strand of deoxyadenosine residues, all residues in each strand being connected by 3'->5' phosphodiester linkages. It contains a poly(deoxythymidylic acid) and a poly(deoxyadenylic acid).

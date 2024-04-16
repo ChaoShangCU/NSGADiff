@@ -1,0 +1,1 @@
+The molecule is a zwitterion derived from heparosan L-iduronic acid. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a tautomer of a heparosan L-iduronic acid.

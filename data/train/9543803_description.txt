@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-sn-glycerol in which the 1- and 2-acyl groups are specified as palmitoyl and (7Z,10Z,13Z,16Z)-docosatetraenoyl respectively. It has a role as a mouse metabolite. It derives from an all-cis-docosa-7,10,13,16-tetraenoic acid and a hexadecanoic acid.

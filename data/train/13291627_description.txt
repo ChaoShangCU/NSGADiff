@@ -1,0 +1,1 @@
+The molecule is an HPODE (hydroperoxy-octadecadienoic acid) in which the double bonds are at positions 10 and 12 (E and Z geometry, respectively) and the hydroperoxy group is at position 9 (R configuration). It derives from a (10E,12Z)-octadecadienoic acid. It is a conjugate acid of a 9(R)-HPODE(1-). It is an enantiomer of a 9(S)-HPODE.

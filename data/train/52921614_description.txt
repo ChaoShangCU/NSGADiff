@@ -1,0 +1,1 @@
+The molecule is an amino trisaccharide that consists of a galactopyranose residue attached by a beta-(1->4)-linkage to an N-acetylglucosamine residue, that is in turn attached to a mannopyranose by a (1->6)-linkage.

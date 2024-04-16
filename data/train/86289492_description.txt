@@ -1,0 +1,1 @@
+The molecule is a phosphatidylethanolamine 38:6 zwitterion in which the acyl substituents at positions 1 and 2 are specified as hexadecanoyl and (4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl respectively. It is a tautomer of a 1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphoethanolamine.

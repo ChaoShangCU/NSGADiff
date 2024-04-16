@@ -1,0 +1,1 @@
+The molecule is a member of the family of microcins comprising a heptapeptide covalently liinked to 3-aminopropyl-AMP via an acylphosphoramide linkage. A potent inhibitor of aspartyl-tRNA synthetase. It has a role as an EC 6.1.1.12 (aspartate--tRNA ligase) inhibitor. It derives from an adenosine 5'-monophosphate.

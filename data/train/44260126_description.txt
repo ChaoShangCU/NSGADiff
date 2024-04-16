@@ -1,0 +1,1 @@
+The molecule is a sphingomyelin d18:1 in which the N-acyl group is specified as (15Z)-tetracosenoyl. It has a role as a mouse metabolite. It is a sphingomyelin 42:2, a sphingomyelin d18:1 and a N-tetracosenoylsphingosine-1-phosphocholine. It derives from a (15Z)-tetracosenoic acid.

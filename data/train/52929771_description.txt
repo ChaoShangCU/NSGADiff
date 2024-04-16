@@ -1,0 +1,1 @@
+The molecule is a 1-(alk-1-enyl)-sn-glycero-3-phosphate in which the alkenyl group is specified as 1Z-octadecenyl. It is a conjugate acid of a 1-(1Z-octadecenyl)-sn-glycero-3-phosphate(2-).

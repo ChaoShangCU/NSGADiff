@@ -1,0 +1,1 @@
+The molecule is a UDP-sugar having N-acetyl-D-galactosamine as the sugar component. It derives from an UDP-D-galactosamine. It is a conjugate acid of an UDP-N-acetyl-D-galactosamine(2-).

@@ -1,0 +1,1 @@
+The molecule is a ceramide 1-phosphate in which the sphingoid and acyl components are specified as phytosphingosine and hexanoyl respctively. It derives from a hexanoic acid. It is a conjugate acid of a N-hexanoylphytosphingosine 1-phosphate(2-).

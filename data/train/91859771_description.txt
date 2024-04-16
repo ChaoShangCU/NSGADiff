@@ -1,0 +1,1 @@
+The molecule is a glucotriose that is beta-D-glucopyranose in which the hydroxy groups at positions 4 and 6 have been converted into the corresponding alpha-D-glucopyranosyl and beta-D-glucopyranosyl derivatives, respectively. It derives from a beta-D-Glcp-(1->6)-beta-D-Glcp and a beta-maltose.

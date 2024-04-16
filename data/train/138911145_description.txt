@@ -1,0 +1,1 @@
+The molecule is compound 524 in Scheme 3 from pmid:30468448. Produced by the same enzyme that produces CHEBI:144560 It derives from a parthenolide.

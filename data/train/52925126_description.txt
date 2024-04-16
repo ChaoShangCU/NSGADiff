@@ -1,0 +1,1 @@
+The molecule is a 1-(alk-1-enyl)-2-acyl-sn-glycero-3-phosphoethanolamine in which the alkenyl and acyl groups are specified as (1Z)-hexadecenyl and arachidonoyl respectively. It has a role as a mouse metabolite. It derives from an arachidonic acid. It is a tautomer of a 1-(1Z-hexadecenyl)-2-arachidonoyl-sn-glycero-3-phosphoethanolamine zwitterion.

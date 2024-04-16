@@ -1,0 +1,1 @@
+The molecule is a linear pentasaccharide comprising one glucose (at the reducing end) and four mannose residues joined by sequential alpha-(1->6)-, alpha-(1->2)-, alpha-(1->2)- and alpha-(1->2)-linkages.

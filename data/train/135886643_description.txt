@@ -1,0 +1,1 @@
+The molecule is an organophosphate oxoanion obtained by deprotonation of the phosphate and 5-hydroxy groups as well as protonation of the tertiary amino group of 21-phosphorifampicin. It is the major species at pH 7.3 (according to Marvin v 6.2.0.). It derives from a rifampicin zwitterion. It is a conjugate base of a 21-phosphorifampicin.

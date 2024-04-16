@@ -1,0 +1,1 @@
+The molecule is an acyl-CoA(4-) arising from deprotonation of the phosphate and diphosphate OH groups of trans-hex-2-enoyl-CoA; major species at pH 7.3. It is an acyl-CoA(4-) and a medium-chain fatty acyl-CoA(4-). It derives from a (Z)-hex-3-enoyl-CoA(4-). It is a conjugate base of a trans-hex-2-enoyl-CoA.

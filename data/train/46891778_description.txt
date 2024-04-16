@@ -1,0 +1,1 @@
+The molecule is a phosphatidylethanolamine 36:2 zwitterion in which the acyl groups at positions 1 and 2 are specified as stearoyl and linoleoyl respectively. It is a 1-acyl-2-linoleoyl-sn-glycero-3-phosphoethanolamine zwitterion and a phosphatidylethanolamine 36:2 zwitterion. It is a tautomer of a 1-stearoyl-2-linoleoyl-sn-glycero-3-phosphoethanolamine.

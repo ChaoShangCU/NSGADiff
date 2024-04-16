@@ -1,0 +1,1 @@
+The molecule is a dTDP-sugar having 2,3-dehydro-2,6-dideoxy-4-keto-alpha-D-glucose as the sugar component. It derives from a dTDP-D-glucose. It is a conjugate acid of a dTDP-2,3-dehydro-2,6-dideoxy-4-keto-alpha-D-glucose(2-).

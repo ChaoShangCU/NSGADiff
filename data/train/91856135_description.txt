@@ -1,0 +1,1 @@
+The molecule is a mannotriose that is D-mannopyranose in which the hydroxy groups at positions 2 and 4 have each been converted into the corresponding alpha-D-mannopyranose derivative. It derives from an alpha-D-Manp-(1->2)-D-Manp.

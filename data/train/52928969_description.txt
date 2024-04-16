@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-sn-glycerol 3-phosphate in which the acyl substituents at positions 1 and 2 are specified as gamma-linolenoyl and oleoyl respectively. It is a 1,2-diacyl-sn-glycerol 3-phosphate and an oleic acid. It derives from a gamma-linolenic acid. It is a conjugate acid of a 1-(gamma-linolenoyl)-2-oleoyl-sn-glycero-3-phosphate(2-).

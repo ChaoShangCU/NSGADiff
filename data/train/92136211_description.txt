@@ -1,0 +1,1 @@
+The molecule is a 2-acyl-3-(beta-D-galactosyl)-sn-glycerol in which the acyl group at the 2 position is specified as (7Z,10Z,13Z)-hexadecatrienoyl. It derives from an all-cis-7,10,13-hexadecatrienoic acid.

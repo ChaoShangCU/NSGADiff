@@ -1,0 +1,1 @@
+The molecule is a linear trisaccharide comprised of mannose, rhamnose and galactose residues linked alpha(1->4) and alpha(1->3), respectively, with alpha configuration at the anomeric centre of the galactose residue.

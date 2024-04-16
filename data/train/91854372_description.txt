@@ -1,0 +1,1 @@
+The molecule is a glucotriose consisting of alpha-D-glucopyranose, D-glucopyranose and beta-D-glucopyranose residues joined in sequence by (1->3) and (1->2) glycosidic bonds. It is a glucotriose and a partially-defined glycan. It derives from a nigerose.

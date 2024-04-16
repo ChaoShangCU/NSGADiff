@@ -1,0 +1,1 @@
+The molecule is a 1,2-diglyceride in which the acyl groups at positions 1 and 2 are specified as decanoyl and oleoyl respectively. It derives from an oleic acid.

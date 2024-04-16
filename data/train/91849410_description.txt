@@ -1,0 +1,1 @@
+The molecule is a branched mannopentaose comprised of a linear tetrasaccharide unit of D-mannose residues linked sequentially alpha(1->2), alpha(1->6) and alpha(1->6), to the residue at the reducing end is also linked alpha(1->2) a fifth D-mannose residue.

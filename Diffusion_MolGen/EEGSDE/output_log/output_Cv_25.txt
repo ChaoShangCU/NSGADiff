@@ -1,0 +1,16 @@
+Running with Cv = 25...
+2023-11-14 15:23:20,412 - args_path:pretrained_models/cEDM_mu/args.pickle
+2023-11-14 15:23:20,412 - argse_path:pretrained_models/predict_mu/args.pickle
+2023-11-14 15:23:20,414 - Dataset exists and is processed.
+2023-11-14 15:23:20,697 - Removing thermochemical energy from targets zpve U0 U H G Cv
+2023-11-14 15:23:20,704 - Removing thermochemical energy from targets zpve U0 U H G Cv
+2023-11-14 15:23:20,707 - Removing thermochemical energy from targets zpve U0 U H G Cv
+Traceback (most recent call last):
+  File "run_EEGSDE_single_property.py", line 182, in <module>
+    main_quantitative(args)
+  File "run_EEGSDE_single_property.py", line 139, in main_quantitative
+    property_norms = compute_mean_mad(dataloaders, args_gen.conditioning, args_gen.dataset)
+  File "/home/chao/EEGSDE/qm9/utils.py", line 8, in compute_mean_mad
+    return compute_mean_mad_from_dataloader(dataloaders['valid'], properties,CV_VALUE)
+NameError: name 'CV_VALUE' is not defined
+Completed run with Cv = 25.

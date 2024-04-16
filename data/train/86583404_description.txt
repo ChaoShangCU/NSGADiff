@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-sn-glycerol 3-phosphate(2-) in which the phosphatidyl acyl groups at postions 1 and 2 are specified as heptadecanoyl and lauroyl respectively. It is a conjugate base of a 1-heptadecanoyl-2-lauroyl-sn-glycero-3-phosphate.

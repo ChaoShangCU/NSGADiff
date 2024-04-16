@@ -1,0 +1,1 @@
+The molecule is a peptide cation obtained by deprotonation of the carboxy group and protonation of the primary amino and guanidino groups of [des-Phe(8), des-Arg(9)]-bradykinin. It is the major species at pH 7.3. It is a conjugate acid of a [des-Phe(8), des-Arg(9)]-bradykinin.

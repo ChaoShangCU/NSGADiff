@@ -1,0 +1,1 @@
+The molecule is a lysophosphatidylcholine 20:2 in which the acyl group is specified as (11Z,14Z)-icosadienoyl and is located at position 1. It derives from an (11Z,14Z)-icosadienoic acid.

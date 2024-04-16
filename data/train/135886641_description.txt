@@ -1,0 +1,1 @@
+The molecule is an RNA fragment comprised of two guanosine, two adenosine and three cytidine residues connected by 3'->5' phosphodiester linkages in the sequence G-A-G-A-C-C-C.

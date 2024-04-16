@@ -1,0 +1,1 @@
+The molecule is a triblock copolymer composed of a central hydrophobic chain of poly(propylene oxide) (70 units) flanked by two hydrophilic chains of poly(ethylene oxide) (20 units each). A polymer with the formula HO[CH2CH2O]2O[CH2CH(CH3)O]70[CH2CH2O]2OH. It has a role as a nonionic surfactant.

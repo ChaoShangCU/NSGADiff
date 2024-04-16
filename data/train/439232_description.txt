@@ -1,0 +1,1 @@
+The molecule is an N(2)-acyl-L-ornithine where the acyl group is specified to be acetyl. It has a role as a human metabolite, an Escherichia coli metabolite, a Saccharomyces cerevisiae metabolite and a mouse metabolite. It is an acetyl-L-ornithine and a N2-acyl-L-ornithine. It is a tautomer of a N(2)-acetyl-L-ornithine zwitterion.

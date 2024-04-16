@@ -1,0 +1,1 @@
+The molecule is an organyl group consisting of a D-galactopyranose having an alpha-D-galactopyranosyl residue attached at the 4-position, bound at the 1-position. It is a subsituent group from an alpha-D-Gal-(1->4)-D-Gal.

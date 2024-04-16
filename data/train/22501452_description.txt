@@ -1,0 +1,1 @@
+The molecule is an N-acylglycine in which the acyl group is specified as 2-pyridylacetyl. It has a role as a metabolite. It is a member of pyridines and a N-acylglycine.

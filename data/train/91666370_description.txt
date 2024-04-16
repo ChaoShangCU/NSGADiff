@@ -1,0 +1,1 @@
+The molecule is an N-acyllysophosphatidylethanolamine in which both the N- and O-acyl group are specified as palmitoyl (hexadecanoyl). It derives from a hexadecanoic acid. It is a conjugate acid of a N,1-dipalmitoyl-sn-glycero-3-phosphoethanolamine(1-).

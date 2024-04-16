@@ -1,0 +1,1 @@
+The molecule is a branched amino tetrasaccharide consisting of the linear sequence beta-D-GalNAc-(1->4)-beta-D-Gal-(1->4)-D-Glc having a Neu5Ac residue attached to the galactose via an alpha-(2->3) linkage. It is an amino tetrasaccharide and a galactosamine oligosaccharide.

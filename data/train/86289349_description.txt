@@ -1,0 +1,1 @@
+The molecule is a phenolate anion that is the conjugate base of 2,4,6-trihydroxybenzophenone, obtained by deprotonation of one of the two ortho-hydroxy groups. Major structure at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a 2,4,6-trihydroxybenzophenone.

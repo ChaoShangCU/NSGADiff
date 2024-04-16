@@ -1,0 +1,1 @@
+The molecule is a nucleotide-sugar oxoanion that is the conjugate base of dTDP-beta-L-daunosamine, arising from deprotonation of the diphosphate group and protonation of the amino group. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It has a role as a bacterial metabolite. It is a conjugate base of a dTDP-beta-L-daunosamine.

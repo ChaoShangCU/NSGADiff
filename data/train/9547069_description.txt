@@ -1,0 +1,1 @@
+The molecule is a 1-acyl-sn-glycero-3-phosphoethanolamine in which the 1-acyl group is specified as hexadecanoyl (palmitoyl). It has a role as a human metabolite. It is a 1-acyl-sn-glycero-3-phosphoethanolamine and a lysophosphatidylethanolamine 16:0. It is a tautomer of a 1-hexadecanoyl-sn-glycero-3-phosphoethanolamine zwitterion.

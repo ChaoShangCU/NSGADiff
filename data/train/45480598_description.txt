@@ -1,0 +1,1 @@
+The molecule is a linear tetrasaccharide consisting of three L-glycero-alpha-D-manno-heptosyl residues and a 3-deoxy-alpha-D-manno-oct-2-ulosonic acid (Kdo) residue linked sequentially (1->2), (1->2) and (1->5); corresponds to the tetrasaccharide epitope from Haemophilus influenzae MAHI 3. It has a role as an epitope.

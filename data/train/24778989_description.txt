@@ -1,0 +1,1 @@
+The molecule is a phosphatidylcholine 36:4 in which the acyl groups specified at positions 1 and 2 are (9Z,12Z,15Z)-octadecatrienoyl and (9Z)-octadecenoyl respectively. It derives from an alpha-linolenic acid and an oleic acid.

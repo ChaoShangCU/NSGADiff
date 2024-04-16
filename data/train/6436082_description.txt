@@ -1,0 +1,1 @@
+The molecule is a retinal in which the double bond at position 9 has cis configuration, whilst the remaining acyclic double bonds have trans configuration.

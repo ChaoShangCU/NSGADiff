@@ -1,0 +1,1 @@
+The molecule is an iminium betaine resulting from a transfer of a proton from the carboxy group to the imino group of 5-hydroxyectoine. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a tautomer of a 5-hydroxyectoine.

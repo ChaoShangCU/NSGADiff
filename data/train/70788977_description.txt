@@ -1,0 +1,1 @@
+The molecule is a linear amino trisaccharide consisting of a sialyl residue linked (2->6) to a galactosyl residue that in turn is linked (1->4) to an O-6-sulfated glucosaminyl residue at the reducing end. It has a role as an epitope. It is an amino trisaccharide, a glucosamine oligosaccharide and an oligosaccharide sulfate.

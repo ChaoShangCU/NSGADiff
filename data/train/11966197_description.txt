@@ -1,0 +1,1 @@
+The molecule is a 3-oxo-fatty acyl-CoA. It has a role as a human metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite. It derives from a myristoyl-CoA and a 3-oxotetradecanoic acid. It is a conjugate acid of a 3-oxotetradecanoyl-CoA(4-).

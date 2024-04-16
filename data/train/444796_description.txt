@@ -1,0 +1,1 @@
+The molecule is a single-stranded DNA oligonucleotide composed of three deoxythymidylic acid residues connected by 3'->5' phosphodiester linkages and terminated by a 5'-phosphate. It contains a dTMP 3'-end residue, a dTMP 5'-end residue and a thymidine 5'-monophosphate residue.

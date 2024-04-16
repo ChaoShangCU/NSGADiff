@@ -1,0 +1,1 @@
+The molecule is a Delta(4)-beta-D-Glcp-(1->3)-D-GalpNAc6S in which the carbon bearing the anomeric hydroxy group has beta- configuration. It derives from a 4-deoxy-Delta(4)-beta-D-GlcpA2S-(1->3)-beta-D-GalpNAc.

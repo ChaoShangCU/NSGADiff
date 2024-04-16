@@ -1,0 +1,1 @@
+The molecule is an amino trisaccharide consisting of alpha-L-fucopyranose, beta-D-galactopyranose and 2-acetamido-2-deoxy-D-glucopyranose residues joined in sequence by (1->6) and (1->4) glycosidic bonds.

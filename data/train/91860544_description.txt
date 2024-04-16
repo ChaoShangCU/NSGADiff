@@ -1,0 +1,1 @@
+The molecule is a mannopentaose comprising alpha-D-mannopyranose, beta-D-mannopyranose, beta-D-mannopyranose, alpha-D-mannopyranose and D-mannopyranose resideus joined in sequence by (1->2) glycosidic linkages. It derives from a beta-D-Manp-(1->2)-beta-D-Manp-(1->2)-alpha-D-Manp-(1->2)-Manp.

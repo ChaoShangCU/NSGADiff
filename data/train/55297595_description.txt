@@ -1,0 +1,1 @@
+The molecule is a diarylmethane in which the two aryl groups are specified as 5-methylfuran-2-yl and pyrrol-3-yl. It has a role as a rat metabolite and a mouse metabolite. It is a member of pyrroles, a member of furans and a diarylmethane.

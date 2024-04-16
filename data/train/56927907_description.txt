@@ -1,0 +1,1 @@
+The molecule is a monocarboxylic acid oxidation product of abacavir, in which the C-5' hydroxymethyl group has been oxidised to a carboxy group. One of the two major metabolites of abacavir in humans (the other is the 5'-glucuronide, CHEBI:64189). It has a role as a metabolite. It derives from an abacavir.

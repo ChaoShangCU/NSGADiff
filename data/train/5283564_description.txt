@@ -1,0 +1,1 @@
+The molecule is a N-acylsphingosine in which the ceramide N-acyl group is specified as hexadecanoyl (palmitoyl). It has a role as a Mycoplasma genitalium metabolite and a human blood serum metabolite. It is a N-acylsphingosine, a Cer(d34:1) and a N-palmitoyl-sphingoid base. It derives from a hexadecanoic acid.

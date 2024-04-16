@@ -1,0 +1,1 @@
+The molecule is a zwitterion resulting from a transfer of a proton from the phosphonate to the amino group of (2-amino-1-hydroxyethyl)phosphonate. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a tautomer of a 1-hydroxy-2-aminoethylphosphonic acid.

@@ -1,0 +1,1 @@
+The molecule is a glycosylglucose consisting of alpha-D-galactopyranose and alpha-D-glucopyranose residues joined in sequence by a (1->4) glycosidic bond. It derives from an alpha-D-galactose and an alpha-D-glucose.

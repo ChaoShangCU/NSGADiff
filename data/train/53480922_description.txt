@@ -1,0 +1,1 @@
+The molecule is a 2-acyl-sn-glycero-3-phosphoethanolamine in which the acyl group is specified as hexadecanoyl (palmitoyl). It has a role as a plant metabolite. It is a lysophosphatidylethanolamine 16:0 and a 2-acyl-sn-glycero-3-phosphoethanolamine. It derives from a hexadecanoic acid. It is a tautomer of a 2-hexadecanoyl-sn-glycero-3-phosphoethanolamine zwitterion.

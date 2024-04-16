@@ -1,0 +1,1 @@
+The molecule is a tetrasaccharide derivative composed of four arabinofuranose residues in a beta(1->2), alpha(1->5) and alpha(1->5) linear sequence (with alpha-configuration at the reducing end), to the arabinofuranose residue at the non-reducing end is linked (3P->5) a 1D-myo-inositol 5-phosphate moiety. It derives from a myo-inositol.

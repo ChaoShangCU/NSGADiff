@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-sn-glycero-3-phosphoethanolamine in which the acyl substituents at positions 1 and 2 are specified as octadecanoyl (stearoyl) and (5E,8E,11E,14E)-eicosatetraenoyl respectively. It has a role as a mouse metabolite and a ceramide allergen. It derives from an octadecanoic acid.

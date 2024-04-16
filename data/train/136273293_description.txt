@@ -1,0 +1,1 @@
+The molecule is a double-stranded DNA fragment consisting of a 5'-CTGC-3' strand antiparallel to a 3'-GACG-5' strand. It contains a 5'-CTGC-3' and a 5'-GCAG-3'.

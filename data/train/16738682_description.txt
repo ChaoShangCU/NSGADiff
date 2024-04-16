@@ -1,0 +1,1 @@
+The molecule is a UDP-amino sugar having N-acetyl-2-amino-2-deoxy-D-glucuronic acid as the sugar component. It derives from a D-glucuronic acid. It is a conjugate acid of an UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate and an UDP-2-acetamido-2-deoxy-D-glucuronate(3-).

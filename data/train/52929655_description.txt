@@ -1,0 +1,1 @@
+The molecule is a 1-alkyl-2-acyl-sn-glycero-3-phosphate in which the alkyl and acyl groups are specified as palmityl (hexadecyl) and oleoyl respectively. It contains a palmityl group. It derives from an oleic acid. It is a conjugate acid of a 1-palmityl-2-oleoyl-sn-glycero-3-phosphate(2-).

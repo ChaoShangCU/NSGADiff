@@ -1,0 +1,1 @@
+The molecule is a carbohydrate acid derivative anion that is HP_dp02_0008 [alpha-Delta4,5-UA(2S)-(1->4)-alpha-D-GlcpNS] in which the carboxy, sulfamic acid, and sulfooxy groups have undergone deprotonation. It is an organic sulfamate oxoanion, an organosulfate oxoanion and a carbohydrate acid derivative anion. It is a conjugate base of a HP_dp02_0008.

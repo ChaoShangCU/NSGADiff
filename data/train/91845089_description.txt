@@ -1,0 +1,1 @@
+The molecule is a glycosylglucose consisting of beta-D-xylopyranose and D-glucopyranose residues joined in sequence by a (1->2) glycosidic bond. It derives from a beta-D-xylose and a D-glucopyranose.

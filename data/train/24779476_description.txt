@@ -1,0 +1,1 @@
+The molecule is a lysophosphatidylcholine 20:4 in which the acyl group at position 1 is (5Z,8Z,11Z,14Z)-icosatetraenoyl (arachidonoyl) and the hydroxy group at position 2 is unsubstituted. It has a role as a mouse metabolite. It derives from an arachidonic acid.

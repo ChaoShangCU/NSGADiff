@@ -1,0 +1,1 @@
+The molecule is a phosphatidylethanolamine 36:3 zwitterion in which the 1- and 2-acyl groups are specified as hexadecanoyl (palmitoyl) and (8Z,11Z,14Z)-icosatrienoyl respectively. It is a tautomer of a 1-hexadecanoyl-2-(8Z,11Z,14Z-icosatrienoyl)-sn-glycero-3-phosphoethanolamine.

@@ -1,0 +1,1 @@
+The molecule is a trisaccharide consisting of beta-D-galactopyranose, alpha-D-glucopyranose and D-glucopyranose residues joined in sequence by (1->4) and (1->6) glycosidic bonds. It derives from an isomaltose and an alpha-lactose.

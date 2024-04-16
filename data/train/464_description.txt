@@ -1,0 +1,1 @@
+The molecule is an N-acylglycine in which the acyl group is specified as benzoyl. It has a role as a uremic toxin and a human blood serum metabolite. It is a conjugate acid of a N-benzoylglycinate.

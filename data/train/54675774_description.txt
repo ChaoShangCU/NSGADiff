@@ -1,0 +1,1 @@
+The molecule is a pyridone that is 4-hydroxy-6-oxo-1,6-dihydropyridine-2-carboxylic acid substituted by a 3-carboxy-3-oxopropyl group at position 5. It is an oxo dicarboxylic acid, a pyridone and a monohydroxypyridine. It is a conjugate acid of a 5-(3'-carboxy-3'-oxopropyl)-4,6-dihydroxypicolinate.

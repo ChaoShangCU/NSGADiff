@@ -1,0 +1,1 @@
+The molecule is a glucotriose consisting of three alpha-D-glucopyranose residues joined in sequence by (1->6) and (1->2) glycosidic bonds. It derives from an alpha-D-Glcp-(1->2)-alpha-D-Glcp.

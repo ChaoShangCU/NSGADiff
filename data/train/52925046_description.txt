@@ -1,0 +1,1 @@
+The molecule is a 1-(alk-1-enyl)-2-acyl-sn-glycero-3-phosphoethanolamine in which the alk-1-enyl and acyl group are specified as (Z)-hexadec-1-enyl and hexadecanoyl (palmitoyl) respectively. It is a tautomer of a 1-(hexadec-1-enyl)-2-hexadecanoyl-sn-glycero-3-phosphoethanolamine zwitterion.

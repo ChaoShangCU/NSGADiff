@@ -1,0 +1,1 @@
+The molecule is an sn-monothiophosphatidylcholine in which the acyl substituents at O-1 and S-2 are hexadecyl and hetanoyl respectively; an analogue of diheptanoyl thio-PC that contains an ether-linked saturated C16 moiety at the sn-1 position rather than a heptanoyl thiol ester.

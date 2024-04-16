@@ -1,0 +1,1 @@
+The molecule is a linear amino trisaccharide that consists of alpha-L-fucose, 6-sulfated beta-D-galactose and N-acetyl-D-glucosamine units connected in sequence by (1->2) and (1->4) links, respectively. It has a role as an epitope. It is an oligosaccharide sulfate and an amino trisaccharide.

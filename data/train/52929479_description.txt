@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-sn-glycerol 3-phosphate in which the acyl substituents at positions 1 and 2 are specified as octadecanoyl and (9Z)-hexadecenoyl respectively. It derives from an octadecanoic acid and a palmitoleic acid. It is a conjugate acid of a 1-octadecanoyl-2-(9Z)-hexadecenoyl-sn-glycero-3-phosphate(2-).

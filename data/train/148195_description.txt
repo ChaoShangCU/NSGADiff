@@ -1,0 +1,1 @@
+The molecule is a 4-{2-[4-(3,10-dibromo-8-chloro-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridin-11-yl)piperidin-1-yl]-2-oxoethyl}piperidine-1-carboxamide that has R configuration. It is used as oral farnesyltransferase inhibitor. It has a role as an antineoplastic agent and an EC 2.5.1.58 (protein farnesyltransferase) inhibitor.

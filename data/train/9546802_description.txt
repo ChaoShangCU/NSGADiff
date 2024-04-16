@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-sn-glycero-3-phosphoethanolamine in which the 1- and 2-acyl groups are specified as oleoyl and palmitoyl respectively. It derives from an oleic acid and a hexadecanoic acid. It is a tautomer of a 1-oleoyl-2-palmitoyl-sn-glycero-3-phosphoethanolamine zwitterion.

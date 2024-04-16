@@ -1,0 +1,1 @@
+The molecule is an oxo-fatty acyl-CoA that results from the formal condensation of the thiol group of coenzyme A with the carboxylic acid group of 3-oxohexanoic acid. It has a role as a human metabolite, an Escherichia coli metabolite and a mouse metabolite. It derives from a hexanoyl-CoA and a 3-oxohexanoic acid. It is a conjugate acid of a 3-oxohexanoyl-CoA(4-).

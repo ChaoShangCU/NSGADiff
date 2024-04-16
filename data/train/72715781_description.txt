@@ -1,0 +1,1 @@
+The molecule is a branched hexasaccharide consisting of a beta-D-glucose residue, two beta-D-mannose residues, an alpha-L-rhamnose residue and a beta-D-glucose residue (at the reducing end), all joined by sequential (1->3) linkages, to the mannose residue nearest to the non-reducing end is also connected an alpha-D-mannose residue via a (1->2) linkage.

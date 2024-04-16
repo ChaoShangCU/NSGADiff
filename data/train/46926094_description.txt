@@ -1,0 +1,1 @@
+The molecule is the structure is based on pmid:19138128. There is not evidence supporting the stereoconfiguration of the (R)-citryl group on N(2), so if you find evidence supporting it being (S) you are welcome to change the structure. It is a conjugate base of a staphyloferrin A.

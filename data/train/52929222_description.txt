@@ -1,0 +1,1 @@
+The molecule is a 1-acyl-2-oleoyl-sn-glycero-3-phosphate(2-) in which the 1-acyl substituent is specified as arachidonoyl. It derives from an oleic acid and an arachidonic acid. It is a conjugate acid of a 1-arachidonoyl-2-oleoyl-sn-glycero-3-phosphate(2-).

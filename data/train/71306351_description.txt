@@ -1,0 +1,1 @@
+The molecule is a polynucleotide comprised of 2'-deoxycytidine units connected via 3'->5' phosphodiester linkages. It contains a 2'-deoxycytidine 5'-monophosphate residue, a dCMP 3'-end residue and a dCMP 5'-end residue.

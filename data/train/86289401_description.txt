@@ -1,0 +1,1 @@
+The molecule is a monocarboxylic acid anion that is the conjugate base of 3-(4-oxo-4,5-dihydro-1H-imidazol-5-yl)propanoic acid and the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a 3-(4-oxo-4,5-dihydro-1H-imidazol-5-yl)propanoic acid. It is a conjugate acid of a 5-(2-carboxylatoethyl)-4-oxo-4,5-dihydro-1H-imidazol-5-ide.

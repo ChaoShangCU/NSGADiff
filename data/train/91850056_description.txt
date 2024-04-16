@@ -1,0 +1,1 @@
+The molecule is an amino tetrasaccharide comprising a linear chain of three alpha-D-mannose and one N-acetyl-alpha-D-glucosamine resides joined in sequence by (1->2), (1->6) and (1->2) glycosidic linkages.

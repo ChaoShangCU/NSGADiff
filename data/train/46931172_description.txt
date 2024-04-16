@@ -1,0 +1,1 @@
+The molecule is p-cluster from Mo-independent nitrogenases, deprotonated to pH 7.3. Unfortunately, there are no structures available, and one of the O ligands of Fe has actually not been confirmed (hence the X in the name) It has a role as a cofactor.

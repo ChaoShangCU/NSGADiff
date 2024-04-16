@@ -1,0 +1,1 @@
+The molecule is a UDP-amino sugar having 2-acetamido-4-amino-2,4,6-trideoxy-D-glucose as the sugar component. It derives from an UDP-D-glucosamine. It is a conjugate acid of an UDP-2-acetamido-4-amino-2,4,6-trideoxy-D-glucose(1-).

@@ -1,0 +1,1 @@
+The molecule is a steroid acid that is 5alpha-cholest-7-en-26-oic acid that has S configuration at position 25 and is substituted by a hydroxy group at the 3alpha position. It is an endogenous ligand for DAF-12 in Caenorhabditis elegans. It has a role as a Caenorhabditis elegans metabolite. It is a 3alpha-hydroxy steroid, a steroid acid, a monocarboxylic acid and a cholestanoid.

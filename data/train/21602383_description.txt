@@ -1,0 +1,1 @@
+The molecule is an amino trisaccharide consisting of alpha-D-galactopyranose, beta-D-galactopyranose and 2-acetamido-2-deoxy-alpha-D-glucopyranose residues joined in sequence by (1->4) glycosidic bonds. It is a member of acetamides and an amino trisaccharide. It derives from a beta-D-Galp-(1->4)-alpha-D-GlcpNAc and an alpha-D-Galp-(1->4)-beta-D-Galp.

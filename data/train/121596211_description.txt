@@ -1,0 +1,1 @@
+The molecule is a peptide zwitterion obtained by transfer of two protons from the carboxy to the amino groups of Cys-Gly disulfide; major species at pH 7.3. It is a tautomer of a Cys-Gly disulfide.

@@ -1,0 +1,854 @@
+Running alpha with -l 0.0...
+2023-11-07 16:23:10,679 - args_path:pretrained_models/cEDM_alpha/args.pickle
+2023-11-07 16:23:10,679 - argse_path:pretrained_models/predict_alpha/args.pickle
+2023-11-07 16:23:10,681 - Dataset exists and is processed.
+2023-11-07 16:23:10,972 - Removing thermochemical energy from targets zpve U0 U H G Cv
+2023-11-07 16:23:10,981 - Removing thermochemical energy from targets zpve U0 U H G Cv
+2023-11-07 16:23:10,984 - Removing thermochemical energy from targets zpve U0 U H G Cv
+/home/chao/EEGSDE/qm9/models.py:141: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  probs = Categorical(torch.tensor(probs))
+2023-11-07 16:23:11,927 - model_path:pretrained_models/cEDM_alpha/generative_model_ema.npy
+2023-11-07 16:23:11,965 - energy_path:pretrained_models/predict_alpha/model_ema.npy
+2023-11-07 16:23:55,154 - generated samples:5/10000
+2023-11-07 16:23:55,176 - Iteration 0 	 loss 1.2941
+2023-11-07 16:24:39,078 - generated samples:10/10000
+2023-11-07 16:24:39,096 - Iteration 1 	 loss 2.0492
+2023-11-07 16:25:20,385 - generated samples:15/10000
+2023-11-07 16:25:20,414 - Iteration 2 	 loss 2.5859
+2023-11-07 16:26:03,344 - generated samples:20/10000
+2023-11-07 16:26:03,364 - Iteration 3 	 loss 2.5405
+2023-11-07 16:26:46,054 - generated samples:25/10000
+2023-11-07 16:26:46,091 - Iteration 4 	 loss 2.5107
+2023-11-07 16:27:29,369 - generated samples:30/10000
+2023-11-07 16:27:29,392 - Iteration 5 	 loss 2.7141
+2023-11-07 16:28:10,799 - generated samples:35/10000
+2023-11-07 16:28:10,821 - Iteration 6 	 loss 2.6075
+2023-11-07 16:28:55,135 - generated samples:40/10000
+2023-11-07 16:28:55,158 - Iteration 7 	 loss 2.6800
+2023-11-07 16:29:36,360 - generated samples:45/10000
+2023-11-07 16:29:36,379 - Iteration 8 	 loss 2.8877
+2023-11-07 16:30:17,270 - generated samples:50/10000
+2023-11-07 16:30:17,297 - Iteration 9 	 loss 3.0340
+2023-11-07 16:30:58,916 - generated samples:55/10000
+2023-11-07 16:30:58,936 - Iteration 10 	 loss 3.2789
+2023-11-07 16:31:40,419 - generated samples:60/10000
+2023-11-07 16:31:40,449 - Iteration 11 	 loss 3.4492
+2023-11-07 16:32:22,256 - generated samples:65/10000
+2023-11-07 16:32:22,274 - Iteration 12 	 loss 3.4662
+2023-11-07 16:33:00,186 - generated samples:70/10000
+2023-11-07 16:33:00,212 - Iteration 13 	 loss 3.3959
+2023-11-07 16:33:33,448 - generated samples:75/10000
+2023-11-07 16:33:33,465 - Iteration 14 	 loss 3.3451
+2023-11-07 16:34:06,572 - generated samples:80/10000
+2023-11-07 16:34:06,598 - Iteration 15 	 loss 3.2085
+2023-11-07 16:34:38,888 - generated samples:85/10000
+2023-11-07 16:34:38,906 - Iteration 16 	 loss 3.1952
+2023-11-07 16:35:12,621 - generated samples:90/10000
+2023-11-07 16:35:12,638 - Iteration 17 	 loss 3.4257
+2023-11-07 16:35:46,104 - generated samples:95/10000
+2023-11-07 16:35:46,120 - Iteration 18 	 loss 3.3600
+2023-11-07 16:36:20,502 - generated samples:100/10000
+2023-11-07 16:36:20,519 - Iteration 19 	 loss 3.0843
+2023-11-07 16:36:53,493 - generated samples:105/10000
+2023-11-07 16:36:53,508 - Iteration 20 	 loss 2.9471
+2023-11-07 16:37:26,155 - generated samples:110/10000
+2023-11-07 16:37:26,175 - Iteration 21 	 loss 2.8670
+2023-11-07 16:38:02,703 - generated samples:115/10000
+2023-11-07 16:38:02,721 - Iteration 22 	 loss 2.7188
+2023-11-07 16:38:35,958 - generated samples:120/10000
+2023-11-07 16:38:35,976 - Iteration 23 	 loss 2.6593
+2023-11-07 16:39:09,060 - generated samples:125/10000
+2023-11-07 16:39:09,076 - Iteration 24 	 loss 2.7378
+2023-11-07 16:39:42,945 - generated samples:130/10000
+2023-11-07 16:39:42,968 - Iteration 25 	 loss 2.7016
+2023-11-07 16:40:15,558 - generated samples:135/10000
+2023-11-07 16:40:15,574 - Iteration 26 	 loss 2.8987
+2023-11-07 16:40:48,591 - generated samples:140/10000
+2023-11-07 16:40:48,606 - Iteration 27 	 loss 2.5934
+2023-11-07 16:41:24,324 - generated samples:145/10000
+2023-11-07 16:41:24,344 - Iteration 28 	 loss 2.3749
+2023-11-07 16:42:06,194 - generated samples:150/10000
+2023-11-07 16:42:06,219 - Iteration 29 	 loss 2.7848
+2023-11-07 16:42:47,817 - generated samples:155/10000
+2023-11-07 16:42:47,837 - Iteration 30 	 loss 2.9304
+2023-11-07 16:43:30,174 - generated samples:160/10000
+2023-11-07 16:43:30,198 - Iteration 31 	 loss 2.8743
+2023-11-07 16:44:12,155 - generated samples:165/10000
+2023-11-07 16:44:12,179 - Iteration 32 	 loss 2.9448
+2023-11-07 16:44:54,607 - generated samples:170/10000
+2023-11-07 16:44:54,632 - Iteration 33 	 loss 3.1304
+2023-11-07 16:45:36,321 - generated samples:175/10000
+2023-11-07 16:45:36,345 - Iteration 34 	 loss 3.1003
+2023-11-07 16:46:18,166 - generated samples:180/10000
+2023-11-07 16:46:18,184 - Iteration 35 	 loss 3.2111
+2023-11-07 16:47:00,534 - generated samples:185/10000
+2023-11-07 16:47:00,552 - Iteration 36 	 loss 2.9527
+2023-11-07 16:47:41,654 - generated samples:190/10000
+2023-11-07 16:47:41,671 - Iteration 37 	 loss 3.0500
+2023-11-07 16:48:23,274 - generated samples:195/10000
+2023-11-07 16:48:23,292 - Iteration 38 	 loss 3.0159
+2023-11-07 16:49:04,914 - generated samples:200/10000
+2023-11-07 16:49:04,937 - Iteration 39 	 loss 2.5920
+2023-11-07 16:49:47,063 - generated samples:205/10000
+2023-11-07 16:49:47,084 - Iteration 40 	 loss 2.4837
+2023-11-07 16:50:28,667 - generated samples:210/10000
+2023-11-07 16:50:28,691 - Iteration 41 	 loss 2.4934
+2023-11-07 16:51:10,480 - generated samples:215/10000
+2023-11-07 16:51:10,504 - Iteration 42 	 loss 2.3711
+2023-11-07 16:51:53,572 - generated samples:220/10000
+2023-11-07 16:51:53,593 - Iteration 43 	 loss 2.7044
+2023-11-07 16:52:35,677 - generated samples:225/10000
+2023-11-07 16:52:35,695 - Iteration 44 	 loss 2.6717
+2023-11-07 16:53:18,868 - generated samples:230/10000
+2023-11-07 16:53:18,891 - Iteration 45 	 loss 2.7105
+2023-11-07 16:54:00,585 - generated samples:235/10000
+2023-11-07 16:54:00,612 - Iteration 46 	 loss 3.0666
+2023-11-07 16:54:36,365 - generated samples:240/10000
+2023-11-07 16:54:36,385 - Iteration 47 	 loss 2.9382
+2023-11-07 16:55:09,389 - generated samples:245/10000
+2023-11-07 16:55:09,409 - Iteration 48 	 loss 3.1331
+2023-11-07 16:55:42,104 - generated samples:250/10000
+2023-11-07 16:55:42,121 - Iteration 49 	 loss 3.2576
+2023-11-07 16:56:15,446 - generated samples:255/10000
+2023-11-07 16:56:15,467 - Iteration 50 	 loss 3.2701
+2023-11-07 16:56:48,113 - generated samples:260/10000
+2023-11-07 16:56:48,133 - Iteration 51 	 loss 3.2192
+2023-11-07 16:57:21,336 - generated samples:265/10000
+2023-11-07 16:57:21,356 - Iteration 52 	 loss 3.3035
+2023-11-07 16:57:53,975 - generated samples:270/10000
+2023-11-07 16:57:53,996 - Iteration 53 	 loss 3.1808
+2023-11-07 16:58:27,211 - generated samples:275/10000
+2023-11-07 16:58:27,227 - Iteration 54 	 loss 3.1742
+2023-11-07 16:59:00,415 - generated samples:280/10000
+2023-11-07 16:59:00,431 - Iteration 55 	 loss 2.9503
+2023-11-07 16:59:33,427 - generated samples:285/10000
+2023-11-07 16:59:33,446 - Iteration 56 	 loss 2.6839
+2023-11-07 17:00:06,019 - generated samples:290/10000
+2023-11-07 17:00:06,038 - Iteration 57 	 loss 2.9996
+2023-11-07 17:00:39,198 - generated samples:295/10000
+2023-11-07 17:00:39,214 - Iteration 58 	 loss 2.8540
+2023-11-07 17:01:11,709 - generated samples:300/10000
+2023-11-07 17:01:11,733 - Iteration 59 	 loss 2.9077
+2023-11-07 17:01:44,658 - generated samples:305/10000
+2023-11-07 17:01:44,684 - Iteration 60 	 loss 2.7964
+2023-11-07 17:02:17,727 - generated samples:310/10000
+2023-11-07 17:02:17,743 - Iteration 61 	 loss 2.9253
+2023-11-07 17:02:51,086 - generated samples:315/10000
+2023-11-07 17:02:51,102 - Iteration 62 	 loss 2.9235
+2023-11-07 17:03:24,691 - generated samples:320/10000
+2023-11-07 17:03:24,712 - Iteration 63 	 loss 2.6629
+2023-11-07 17:03:57,704 - generated samples:325/10000
+2023-11-07 17:03:57,724 - Iteration 64 	 loss 2.8128
+2023-11-07 17:04:31,691 - generated samples:330/10000
+2023-11-07 17:04:31,708 - Iteration 65 	 loss 3.0008
+2023-11-07 17:05:04,739 - generated samples:335/10000
+2023-11-07 17:05:04,755 - Iteration 66 	 loss 3.1578
+2023-11-07 17:05:37,655 - generated samples:340/10000
+2023-11-07 17:05:37,677 - Iteration 67 	 loss 2.9896
+2023-11-07 17:06:10,568 - generated samples:345/10000
+2023-11-07 17:06:10,584 - Iteration 68 	 loss 3.2001
+2023-11-07 17:06:43,873 - generated samples:350/10000
+2023-11-07 17:06:43,890 - Iteration 69 	 loss 3.1150
+2023-11-07 17:07:20,433 - generated samples:355/10000
+2023-11-07 17:07:20,450 - Iteration 70 	 loss 3.2032
+2023-11-07 17:08:02,089 - generated samples:360/10000
+2023-11-07 17:08:02,107 - Iteration 71 	 loss 3.0662
+2023-11-07 17:08:44,146 - generated samples:365/10000
+2023-11-07 17:08:44,163 - Iteration 72 	 loss 3.0076
+2023-11-07 17:09:23,065 - generated samples:370/10000
+2023-11-07 17:09:23,087 - Iteration 73 	 loss 3.1397
+2023-11-07 17:10:02,349 - generated samples:375/10000
+2023-11-07 17:10:02,367 - Iteration 74 	 loss 3.1167
+2023-11-07 17:10:44,486 - generated samples:380/10000
+2023-11-07 17:10:44,508 - Iteration 75 	 loss 3.1043
+2023-11-07 17:11:26,690 - generated samples:385/10000
+2023-11-07 17:11:26,709 - Iteration 76 	 loss 3.0301
+2023-11-07 17:12:09,657 - generated samples:390/10000
+2023-11-07 17:12:09,675 - Iteration 77 	 loss 3.0409
+2023-11-07 17:12:51,218 - generated samples:395/10000
+2023-11-07 17:12:51,242 - Iteration 78 	 loss 3.0517
+2023-11-07 17:13:33,352 - generated samples:400/10000
+2023-11-07 17:13:33,370 - Iteration 79 	 loss 3.3097
+2023-11-07 17:14:15,263 - generated samples:405/10000
+2023-11-07 17:14:15,288 - Iteration 80 	 loss 3.5365
+2023-11-07 17:14:57,984 - generated samples:410/10000
+2023-11-07 17:14:58,008 - Iteration 81 	 loss 3.5156
+2023-11-07 17:15:39,857 - generated samples:415/10000
+2023-11-07 17:15:39,877 - Iteration 82 	 loss 3.5550
+2023-11-07 17:16:22,254 - generated samples:420/10000
+2023-11-07 17:16:22,277 - Iteration 83 	 loss 3.5072
+2023-11-07 17:17:04,945 - generated samples:425/10000
+2023-11-07 17:17:04,974 - Iteration 84 	 loss 3.3418
+2023-11-07 17:17:47,557 - generated samples:430/10000
+2023-11-07 17:17:47,576 - Iteration 85 	 loss 3.6146
+2023-11-07 17:18:30,297 - generated samples:435/10000
+2023-11-07 17:18:30,316 - Iteration 86 	 loss 3.6168
+2023-11-07 17:19:12,123 - generated samples:440/10000
+2023-11-07 17:19:12,145 - Iteration 87 	 loss 3.7983
+2023-11-07 17:19:55,114 - generated samples:445/10000
+2023-11-07 17:19:55,133 - Iteration 88 	 loss 3.7164
+2023-11-07 17:20:37,438 - generated samples:450/10000
+2023-11-07 17:20:37,461 - Iteration 89 	 loss 3.4607
+2023-11-07 17:21:19,159 - generated samples:455/10000
+2023-11-07 17:21:19,182 - Iteration 90 	 loss 3.2216
+2023-11-07 17:22:01,054 - generated samples:460/10000
+2023-11-07 17:22:01,074 - Iteration 91 	 loss 3.1842
+2023-11-07 17:22:43,540 - generated samples:465/10000
+2023-11-07 17:22:43,556 - Iteration 92 	 loss 3.2802
+2023-11-07 17:23:16,917 - generated samples:470/10000
+2023-11-07 17:23:16,934 - Iteration 93 	 loss 3.2849
+2023-11-07 17:23:50,020 - generated samples:475/10000
+2023-11-07 17:23:50,037 - Iteration 94 	 loss 3.3576
+2023-11-07 17:24:23,416 - generated samples:480/10000
+2023-11-07 17:24:23,437 - Iteration 95 	 loss 2.9958
+2023-11-07 17:24:56,281 - generated samples:485/10000
+2023-11-07 17:24:56,297 - Iteration 96 	 loss 2.9719
+2023-11-07 17:25:29,411 - generated samples:490/10000
+2023-11-07 17:25:29,432 - Iteration 97 	 loss 2.5900
+2023-11-07 17:26:02,270 - generated samples:495/10000
+2023-11-07 17:26:02,291 - Iteration 98 	 loss 2.4857
+2023-11-07 17:26:35,292 - generated samples:500/10000
+2023-11-07 17:26:35,309 - Iteration 99 	 loss 2.4686
+2023-11-07 17:27:08,404 - generated samples:505/10000
+2023-11-07 17:27:08,420 - Iteration 100 	 loss 2.4678
+[17:27:12] Explicit valence for atom # 11 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 6 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 12 N, 4, is greater than permitted
+[17:27:12] Explicit valence for atom # 10 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 2 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 1 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 1 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 12 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 0 N, 4, is greater than permitted
+[17:27:12] Explicit valence for atom # 16 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 11 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 5 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 2 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 7 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 2 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 12 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 20 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 14 N, 4, is greater than permitted
+[17:27:12] Explicit valence for atom # 14 N, 4, is greater than permitted
+[17:27:12] Explicit valence for atom # 2 C, 5, is greater than permitted
+[17:27:12] Explicit valence for atom # 1 N, 4, is greater than permitted
+[17:27:13] Explicit valence for atom # 5 N, 4, is greater than permitted
+[17:27:13] Explicit valence for atom # 1 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 17 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 4 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 1 N, 4, is greater than permitted
+[17:27:13] Explicit valence for atom # 0 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 5 O, 3, is greater than permitted
+[17:27:13] Explicit valence for atom # 1 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 13 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 5 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 7 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 4 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 8 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 14 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 10 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 11 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 12 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 5 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 7 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 5 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 11 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 10 N, 4, is greater than permitted
+[17:27:13] Explicit valence for atom # 4 N, 4, is greater than permitted
+[17:27:13] Explicit valence for atom # 12 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 5 N, 4, is greater than permitted
+[17:27:13] Explicit valence for atom # 15 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 0 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 1 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 0 C, 5, is greater than permitted
+[17:27:13] Explicit valence for atom # 14 N, 4, is greater than permitted
+[17:27:13] Explicit valence for atom # 5 N, 4, is greater than permitted
+[17:27:14] Explicit valence for atom # 7 C, 5, is greater than permitted
+[17:27:14] Explicit valence for atom # 1 C, 5, is greater than permitted
+2023-11-07 17:27:14,290 - MAE: 2.9965
+2023-11-07 17:27:14,290 - {'mol_stable': 0.807920792079208, 'atm_stable': 0.9824274175944117}
+2023-11-07 17:27:14,290 - Novelty: 0.8381
+Entropy of n_nodes: H[N] -2.4754221439361572
+alphas2 [9.99990000e-01 9.99988000e-01 9.99982000e-01 ... 2.59676966e-05
+ 1.39959211e-05 1.00039959e-05]
+gamma [-11.51291546 -11.33059532 -10.92513058 ...  10.55863126  11.17673063
+  11.51251595]
+alphas2 [9.99990000e-01 9.99988000e-01 9.99982000e-01 ... 2.59676966e-05
+ 1.39959211e-05 1.00039959e-05]
+gamma [-11.51291546 -11.33059532 -10.92513058 ...  10.55863126  11.17673063
+  11.51251595]
+Validity over 505 molecules: 89.31%
+Uniqueness over 451 valid molecules: 100.00%
+Novelty over 451 unique valid molecules: 83.81%
+MAE: 2.9965
+Validity 0.8931, Uniqueness: 1.0000, Novelty: 0.8381
+Completed alpha run with -l 0.0.
+Running alpha with -l 1.0...
+2023-11-07 17:27:16,197 - args_path:pretrained_models/cEDM_alpha/args.pickle
+2023-11-07 17:27:16,197 - argse_path:pretrained_models/predict_alpha/args.pickle
+2023-11-07 17:27:16,198 - Dataset exists and is processed.
+2023-11-07 17:27:16,477 - Removing thermochemical energy from targets zpve U0 U H G Cv
+2023-11-07 17:27:16,484 - Removing thermochemical energy from targets zpve U0 U H G Cv
+2023-11-07 17:27:16,487 - Removing thermochemical energy from targets zpve U0 U H G Cv
+/home/chao/EEGSDE/qm9/models.py:141: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  probs = Categorical(torch.tensor(probs))
+2023-11-07 17:27:17,421 - model_path:pretrained_models/cEDM_alpha/generative_model_ema.npy
+2023-11-07 17:27:17,432 - energy_path:pretrained_models/predict_alpha/model_ema.npy
+2023-11-07 17:28:45,199 - generated samples:5/10000
+2023-11-07 17:28:45,217 - Iteration 0 	 loss 2.7294
+2023-11-07 17:30:18,603 - generated samples:10/10000
+2023-11-07 17:30:18,640 - Iteration 1 	 loss 2.4271
+2023-11-07 17:31:42,098 - generated samples:15/10000
+2023-11-07 17:31:42,120 - Iteration 2 	 loss 2.3506
+2023-11-07 17:33:12,229 - generated samples:20/10000
+2023-11-07 17:33:12,264 - Iteration 3 	 loss 2.4355
+2023-11-07 17:34:35,311 - generated samples:25/10000
+2023-11-07 17:34:35,327 - Iteration 4 	 loss 2.7590
+2023-11-07 17:35:56,367 - generated samples:30/10000
+2023-11-07 17:35:56,386 - Iteration 5 	 loss 2.6445
+2023-11-07 17:37:16,525 - generated samples:35/10000
+2023-11-07 17:37:16,544 - Iteration 6 	 loss 2.4764
+2023-11-07 17:38:36,547 - generated samples:40/10000
+2023-11-07 17:38:36,564 - Iteration 7 	 loss 2.5661
+2023-11-07 17:39:56,395 - generated samples:45/10000
+2023-11-07 17:39:56,412 - Iteration 8 	 loss 2.7225
+2023-11-07 17:41:16,789 - generated samples:50/10000
+2023-11-07 17:41:16,810 - Iteration 9 	 loss 2.8166
+2023-11-07 17:42:36,154 - generated samples:55/10000
+2023-11-07 17:42:36,169 - Iteration 10 	 loss 2.9183
+2023-11-07 17:43:54,536 - generated samples:60/10000
+2023-11-07 17:43:54,556 - Iteration 11 	 loss 3.0341
+2023-11-07 17:45:16,590 - generated samples:65/10000
+2023-11-07 17:45:16,610 - Iteration 12 	 loss 3.2334
+2023-11-07 17:46:51,950 - generated samples:70/10000
+2023-11-07 17:46:51,968 - Iteration 13 	 loss 3.2321
+2023-11-07 17:48:27,715 - generated samples:75/10000
+2023-11-07 17:48:27,738 - Iteration 14 	 loss 3.0680
+2023-11-07 17:50:01,621 - generated samples:80/10000
+2023-11-07 17:50:01,640 - Iteration 15 	 loss 3.2284
+2023-11-07 17:51:36,862 - generated samples:85/10000
+2023-11-07 17:51:36,884 - Iteration 16 	 loss 3.3123
+2023-11-07 17:53:11,542 - generated samples:90/10000
+2023-11-07 17:53:11,559 - Iteration 17 	 loss 3.5097
+2023-11-07 17:54:47,207 - generated samples:95/10000
+2023-11-07 17:54:47,226 - Iteration 18 	 loss 3.3798
+2023-11-07 17:56:21,974 - generated samples:100/10000
+2023-11-07 17:56:21,992 - Iteration 19 	 loss 3.2432
+2023-11-07 17:57:56,702 - generated samples:105/10000
+2023-11-07 17:57:56,724 - Iteration 20 	 loss 3.0740
+2023-11-07 17:59:18,216 - generated samples:110/10000
+2023-11-07 17:59:18,234 - Iteration 21 	 loss 2.9171
+2023-11-07 18:00:37,267 - generated samples:115/10000
+2023-11-07 18:00:37,283 - Iteration 22 	 loss 2.7602
+2023-11-07 18:01:55,801 - generated samples:120/10000
+2023-11-07 18:01:55,817 - Iteration 23 	 loss 2.8016
+2023-11-07 18:03:17,004 - generated samples:125/10000
+2023-11-07 18:03:17,023 - Iteration 24 	 loss 2.8216
+2023-11-07 18:04:36,269 - generated samples:130/10000
+2023-11-07 18:04:36,284 - Iteration 25 	 loss 2.6296
+2023-11-07 18:05:55,953 - generated samples:135/10000
+2023-11-07 18:05:55,969 - Iteration 26 	 loss 2.4402
+2023-11-07 18:07:15,145 - generated samples:140/10000
+2023-11-07 18:07:15,161 - Iteration 27 	 loss 2.3467
+2023-11-07 18:08:33,266 - generated samples:145/10000
+2023-11-07 18:08:33,285 - Iteration 28 	 loss 2.2779
+2023-11-07 18:09:52,031 - generated samples:150/10000
+2023-11-07 18:09:52,047 - Iteration 29 	 loss 2.4429
+2023-11-07 18:11:10,498 - generated samples:155/10000
+2023-11-07 18:11:10,518 - Iteration 30 	 loss 2.5481
+2023-11-07 18:12:32,733 - generated samples:160/10000
+2023-11-07 18:12:32,757 - Iteration 31 	 loss 2.6406
+2023-11-07 18:13:56,027 - generated samples:165/10000
+2023-11-07 18:13:56,042 - Iteration 32 	 loss 2.7852
+2023-11-07 18:15:15,859 - generated samples:170/10000
+2023-11-07 18:15:15,879 - Iteration 33 	 loss 2.9425
+2023-11-07 18:16:34,990 - generated samples:175/10000
+2023-11-07 18:16:35,007 - Iteration 34 	 loss 3.0329
+2023-11-07 18:17:57,416 - generated samples:180/10000
+2023-11-07 18:17:57,433 - Iteration 35 	 loss 3.1455
+2023-11-07 18:19:16,883 - generated samples:185/10000
+2023-11-07 18:19:16,901 - Iteration 36 	 loss 3.3902
+2023-11-07 18:20:36,573 - generated samples:190/10000
+2023-11-07 18:20:36,588 - Iteration 37 	 loss 3.1693
+2023-11-07 18:21:56,489 - generated samples:195/10000
+2023-11-07 18:21:56,506 - Iteration 38 	 loss 3.1056
+2023-11-07 18:23:57,480 - generated samples:200/10000
+2023-11-07 18:23:57,497 - Iteration 39 	 loss 2.9976
+2023-11-07 18:26:22,030 - generated samples:205/10000
+2023-11-07 18:26:22,049 - Iteration 40 	 loss 2.9399
+2023-11-07 18:27:44,684 - generated samples:210/10000
+2023-11-07 18:27:44,701 - Iteration 41 	 loss 2.8275
+2023-11-07 18:29:03,678 - generated samples:215/10000
+2023-11-07 18:29:03,694 - Iteration 42 	 loss 2.6039
+2023-11-07 18:30:23,942 - generated samples:220/10000
+2023-11-07 18:30:23,958 - Iteration 43 	 loss 2.5912
+2023-11-07 18:31:42,933 - generated samples:225/10000
+2023-11-07 18:31:42,949 - Iteration 44 	 loss 2.4198
+2023-11-07 18:33:02,557 - generated samples:230/10000
+2023-11-07 18:33:02,573 - Iteration 45 	 loss 2.3391
+2023-11-07 18:34:22,692 - generated samples:235/10000
+2023-11-07 18:34:22,708 - Iteration 46 	 loss 2.1884
+2023-11-07 18:35:42,599 - generated samples:240/10000
+2023-11-07 18:35:42,617 - Iteration 47 	 loss 2.0938
+2023-11-07 18:42:38,203 - generated samples:245/10000
+2023-11-07 18:42:38,219 - Iteration 48 	 loss 2.1616
+2023-11-07 18:43:58,097 - generated samples:250/10000
+2023-11-07 18:43:58,112 - Iteration 49 	 loss 2.3100
+2023-11-07 18:45:16,954 - generated samples:255/10000
+2023-11-07 18:45:16,969 - Iteration 50 	 loss 2.3325
+2023-11-07 18:46:35,805 - generated samples:260/10000
+2023-11-07 18:46:35,820 - Iteration 51 	 loss 2.4424
+2023-11-07 18:47:55,178 - generated samples:265/10000
+2023-11-07 18:47:55,194 - Iteration 52 	 loss 2.5958
+2023-11-07 18:49:14,894 - generated samples:270/10000
+2023-11-07 18:49:14,910 - Iteration 53 	 loss 2.3176
+2023-11-07 18:50:34,297 - generated samples:275/10000
+2023-11-07 18:50:34,313 - Iteration 54 	 loss 2.3159
+2023-11-07 18:51:53,870 - generated samples:280/10000
+2023-11-07 18:51:53,885 - Iteration 55 	 loss 2.4448
+2023-11-07 18:53:13,626 - generated samples:285/10000
+2023-11-07 18:53:13,646 - Iteration 56 	 loss 2.4812
+2023-11-07 18:54:33,613 - generated samples:290/10000
+2023-11-07 18:54:33,629 - Iteration 57 	 loss 2.9506
+2023-11-07 19:02:32,259 - generated samples:295/10000
+2023-11-07 19:02:32,330 - Iteration 58 	 loss 3.2189
+2023-11-07 19:20:41,673 - generated samples:300/10000
+2023-11-07 19:20:42,105 - Iteration 59 	 loss 3.0254
+2023-11-07 19:39:11,923 - generated samples:305/10000
+2023-11-07 19:39:12,229 - Iteration 60 	 loss 2.8585
+2023-11-07 19:57:14,772 - generated samples:310/10000
+2023-11-07 19:57:15,103 - Iteration 61 	 loss 2.9084
+2023-11-07 20:15:08,166 - generated samples:315/10000
+2023-11-07 20:15:08,268 - Iteration 62 	 loss 2.8610
+2023-11-07 20:33:43,885 - generated samples:320/10000
+2023-11-07 20:33:44,017 - Iteration 63 	 loss 2.9318
+2023-11-07 20:51:43,456 - generated samples:325/10000
+2023-11-07 20:51:43,665 - Iteration 64 	 loss 3.1582
+2023-11-07 21:10:08,555 - generated samples:330/10000
+2023-11-07 21:10:08,847 - Iteration 65 	 loss 3.2025
+2023-11-07 21:27:57,460 - generated samples:335/10000
+2023-11-07 21:27:57,648 - Iteration 66 	 loss 3.1066
+2023-11-07 21:46:15,034 - generated samples:340/10000
+2023-11-07 21:46:15,101 - Iteration 67 	 loss 2.8139
+2023-11-07 22:03:20,352 - generated samples:345/10000
+2023-11-07 22:03:20,527 - Iteration 68 	 loss 2.7173
+2023-11-07 22:20:55,913 - generated samples:350/10000
+2023-11-07 22:20:55,944 - Iteration 69 	 loss 2.6511
+2023-11-07 22:39:11,540 - generated samples:355/10000
+2023-11-07 22:39:11,633 - Iteration 70 	 loss 2.7194
+2023-11-07 22:57:13,868 - generated samples:360/10000
+2023-11-07 22:57:14,072 - Iteration 71 	 loss 2.5684
+2023-11-07 23:15:10,387 - generated samples:365/10000
+2023-11-07 23:15:10,624 - Iteration 72 	 loss 2.3502
+2023-11-07 23:33:19,718 - generated samples:370/10000
+2023-11-07 23:33:20,367 - Iteration 73 	 loss 2.5980
+2023-11-07 23:51:10,230 - generated samples:375/10000
+2023-11-07 23:51:10,318 - Iteration 74 	 loss 2.4743
+2023-11-08 00:08:59,859 - generated samples:380/10000
+2023-11-08 00:09:00,102 - Iteration 75 	 loss 2.3215
+2023-11-08 00:26:55,899 - generated samples:385/10000
+2023-11-08 00:26:55,958 - Iteration 76 	 loss 2.5409
+2023-11-08 00:45:03,001 - generated samples:390/10000
+2023-11-08 00:45:03,224 - Iteration 77 	 loss 2.4213
+2023-11-08 01:02:44,447 - generated samples:395/10000
+2023-11-08 01:02:44,617 - Iteration 78 	 loss 2.2381
+2023-11-08 01:19:40,606 - generated samples:400/10000
+2023-11-08 01:19:40,673 - Iteration 79 	 loss 2.4790
+2023-11-08 01:34:52,244 - generated samples:405/10000
+2023-11-08 01:34:52,348 - Iteration 80 	 loss 2.7155
+2023-11-08 01:50:34,231 - generated samples:410/10000
+2023-11-08 01:50:34,257 - Iteration 81 	 loss 2.7921
+2023-11-08 02:06:14,868 - generated samples:415/10000
+2023-11-08 02:06:14,927 - Iteration 82 	 loss 3.0218
+2023-11-08 02:21:22,399 - generated samples:420/10000
+2023-11-08 02:21:22,441 - Iteration 83 	 loss 2.8632
+2023-11-08 02:36:10,712 - generated samples:425/10000
+2023-11-08 02:36:11,247 - Iteration 84 	 loss 2.6708
+2023-11-08 02:51:23,785 - generated samples:430/10000
+2023-11-08 02:51:23,830 - Iteration 85 	 loss 2.8998
+2023-11-08 03:07:09,727 - generated samples:435/10000
+2023-11-08 03:07:09,796 - Iteration 86 	 loss 2.8204
+2023-11-08 03:22:35,875 - generated samples:440/10000
+2023-11-08 03:22:36,177 - Iteration 87 	 loss 3.1573
+2023-11-08 03:37:57,774 - generated samples:445/10000
+2023-11-08 03:37:57,816 - Iteration 88 	 loss 3.3986
+2023-11-08 03:54:01,985 - generated samples:450/10000
+2023-11-08 03:54:02,321 - Iteration 89 	 loss 3.2091
+2023-11-08 04:09:54,793 - generated samples:455/10000
+2023-11-08 04:09:55,470 - Iteration 90 	 loss 3.0419
+2023-11-08 04:25:26,689 - generated samples:460/10000
+2023-11-08 04:25:26,786 - Iteration 91 	 loss 3.1241
+2023-11-08 04:40:43,500 - generated samples:465/10000
+2023-11-08 04:40:43,589 - Iteration 92 	 loss 3.1001
+2023-11-08 04:55:28,463 - generated samples:470/10000
+2023-11-08 04:55:28,724 - Iteration 93 	 loss 3.0559
+2023-11-08 05:11:43,743 - generated samples:475/10000
+2023-11-08 05:11:44,563 - Iteration 94 	 loss 3.2677
+2023-11-08 05:27:21,350 - generated samples:480/10000
+2023-11-08 05:27:21,417 - Iteration 95 	 loss 2.9954
+2023-11-08 05:42:47,057 - generated samples:485/10000
+2023-11-08 05:42:47,162 - Iteration 96 	 loss 3.2261
+2023-11-08 05:57:26,145 - generated samples:490/10000
+2023-11-08 05:57:26,165 - Iteration 97 	 loss 2.9155
+2023-11-08 06:12:45,880 - generated samples:495/10000
+2023-11-08 06:12:46,453 - Iteration 98 	 loss 2.7138
+2023-11-08 06:28:17,444 - generated samples:500/10000
+2023-11-08 06:28:17,821 - Iteration 99 	 loss 2.7287
+2023-11-08 06:43:46,958 - generated samples:505/10000
+2023-11-08 06:43:47,129 - Iteration 100 	 loss 2.7078
+[06:43:53] Explicit valence for atom # 11 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 8 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 2 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 0 N, 4, is greater than permitted
+[06:43:54] Explicit valence for atom # 0 N, 4, is greater than permitted
+[06:43:54] Explicit valence for atom # 16 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 12 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 5 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 14 N, 4, is greater than permitted
+[06:43:54] Explicit valence for atom # 8 N, 4, is greater than permitted
+[06:43:54] Explicit valence for atom # 3 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 15 N, 4, is greater than permitted
+[06:43:54] Explicit valence for atom # 7 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 8 N, 4, is greater than permitted
+[06:43:54] Explicit valence for atom # 12 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 0 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 7 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 13 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 2 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 8 N, 4, is greater than permitted
+[06:43:54] Explicit valence for atom # 10 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 11 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 5 N, 4, is greater than permitted
+[06:43:54] Explicit valence for atom # 1 C, 5, is greater than permitted
+[06:43:54] Explicit valence for atom # 17 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 3 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 15 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 2 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 3 N, 4, is greater than permitted
+[06:43:55] Explicit valence for atom # 8 N, 4, is greater than permitted
+[06:43:55] Explicit valence for atom # 2 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 13 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 5 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 9 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 9 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 2 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 7 N, 4, is greater than permitted
+[06:43:55] Explicit valence for atom # 5 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 6 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 7 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 2 C, 5, is greater than permitted
+[06:43:55] Explicit valence for atom # 1 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 6 C, 6, is greater than permitted
+[06:43:56] Explicit valence for atom # 3 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 12 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 5 N, 4, is greater than permitted
+[06:43:56] Explicit valence for atom # 4 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 15 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 7 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 4 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 1 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 5 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 16 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 0 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 14 N, 4, is greater than permitted
+[06:43:56] Explicit valence for atom # 15 N, 4, is greater than permitted
+[06:43:56] Explicit valence for atom # 0 C, 5, is greater than permitted
+[06:43:56] Explicit valence for atom # 15 N, 4, is greater than permitted
+2023-11-08 06:43:57,077 - MAE: 2.7850
+2023-11-08 06:43:57,077 - {'mol_stable': 0.7920792079207921, 'atm_stable': 0.9803536345776032}
+2023-11-08 06:43:57,077 - Novelty: 0.8434
+Entropy of n_nodes: H[N] -2.4754221439361572
+alphas2 [9.99990000e-01 9.99988000e-01 9.99982000e-01 ... 2.59676966e-05
+ 1.39959211e-05 1.00039959e-05]
+gamma [-11.51291546 -11.33059532 -10.92513058 ...  10.55863126  11.17673063
+  11.51251595]
+alphas2 [9.99990000e-01 9.99988000e-01 9.99982000e-01 ... 2.59676966e-05
+ 1.39959211e-05 1.00039959e-05]
+gamma [-11.51291546 -11.33059532 -10.92513058 ...  10.55863126  11.17673063
+  11.51251595]
+Validity over 505 molecules: 88.51%
+Uniqueness over 447 valid molecules: 100.00%
+Novelty over 447 unique valid molecules: 84.34%
+MAE: 2.7850
+Validity 0.8851, Uniqueness: 1.0000, Novelty: 0.8434
+Completed alpha run with -l 1.0.
+Running alpha with -l 2.0...
+2023-11-08 06:44:00,019 - args_path:pretrained_models/cEDM_alpha/args.pickle
+2023-11-08 06:44:00,020 - argse_path:pretrained_models/predict_alpha/args.pickle
+2023-11-08 06:44:00,021 - Dataset exists and is processed.
+2023-11-08 06:44:00,840 - Removing thermochemical energy from targets zpve U0 U H G Cv
+2023-11-08 06:44:01,420 - Removing thermochemical energy from targets zpve U0 U H G Cv
+2023-11-08 06:44:01,422 - Removing thermochemical energy from targets zpve U0 U H G Cv
+/home/chao/EEGSDE/qm9/models.py:141: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  probs = Categorical(torch.tensor(probs))
+2023-11-08 06:44:03,202 - model_path:pretrained_models/cEDM_alpha/generative_model_ema.npy
+2023-11-08 06:44:03,274 - energy_path:pretrained_models/predict_alpha/model_ema.npy
+2023-11-08 06:59:40,598 - generated samples:5/10000
+2023-11-08 06:59:40,664 - Iteration 0 	 loss 3.6303
+2023-11-08 07:16:31,993 - generated samples:10/10000
+2023-11-08 07:16:32,015 - Iteration 1 	 loss 3.1910
+2023-11-08 07:31:20,588 - generated samples:15/10000
+2023-11-08 07:31:20,633 - Iteration 2 	 loss 2.8082
+2023-11-08 07:47:08,275 - generated samples:20/10000
+2023-11-08 07:47:09,395 - Iteration 3 	 loss 2.5715
+2023-11-08 08:02:13,018 - generated samples:25/10000
+2023-11-08 08:02:13,069 - Iteration 4 	 loss 2.5314
+2023-11-08 08:17:24,086 - generated samples:30/10000
+2023-11-08 08:17:24,106 - Iteration 5 	 loss 2.4027
+2023-11-08 08:32:23,677 - generated samples:35/10000
+2023-11-08 08:32:23,923 - Iteration 6 	 loss 2.5979
+2023-11-08 08:47:34,022 - generated samples:40/10000
+2023-11-08 08:47:34,100 - Iteration 7 	 loss 2.5521
+2023-11-08 09:02:34,027 - generated samples:45/10000
+2023-11-08 09:02:34,534 - Iteration 8 	 loss 2.4581
+2023-11-08 09:18:07,536 - generated samples:50/10000
+2023-11-08 09:18:07,592 - Iteration 9 	 loss 2.4628
+2023-11-08 09:32:51,848 - generated samples:55/10000
+2023-11-08 09:32:52,006 - Iteration 10 	 loss 2.4870
+2023-11-08 09:48:15,295 - generated samples:60/10000
+2023-11-08 09:48:16,385 - Iteration 11 	 loss 2.4093
+2023-11-08 10:04:04,474 - generated samples:65/10000
+2023-11-08 10:04:04,622 - Iteration 12 	 loss 2.4368
+2023-11-08 10:19:30,240 - generated samples:70/10000
+2023-11-08 10:19:30,372 - Iteration 13 	 loss 2.3189
+2023-11-08 10:35:11,565 - generated samples:75/10000
+2023-11-08 10:35:11,893 - Iteration 14 	 loss 2.2576
+2023-11-08 10:50:19,814 - generated samples:80/10000
+2023-11-08 10:50:19,886 - Iteration 15 	 loss 2.2292
+2023-11-08 11:06:32,949 - generated samples:85/10000
+2023-11-08 11:06:32,989 - Iteration 16 	 loss 2.1068
+2023-11-08 11:22:48,224 - generated samples:90/10000
+2023-11-08 11:22:48,243 - Iteration 17 	 loss 2.3837
+2023-11-08 11:38:22,174 - generated samples:95/10000
+2023-11-08 11:38:22,405 - Iteration 18 	 loss 2.4761
+2023-11-08 11:53:57,390 - generated samples:100/10000
+2023-11-08 11:53:57,505 - Iteration 19 	 loss 2.3535
+2023-11-08 12:08:25,368 - generated samples:105/10000
+2023-11-08 12:08:25,384 - Iteration 20 	 loss 2.1545
+2023-11-08 12:09:45,671 - generated samples:110/10000
+2023-11-08 12:09:45,692 - Iteration 21 	 loss 2.1183
+2023-11-08 12:11:05,131 - generated samples:115/10000
+2023-11-08 12:11:05,147 - Iteration 22 	 loss 2.1195
+2023-11-08 12:12:24,324 - generated samples:120/10000
+2023-11-08 12:12:24,340 - Iteration 23 	 loss 2.4017
+2023-11-08 12:13:44,918 - generated samples:125/10000
+2023-11-08 12:13:44,937 - Iteration 24 	 loss 2.4104
+2023-11-08 12:15:05,315 - generated samples:130/10000
+2023-11-08 12:15:05,338 - Iteration 25 	 loss 2.4969
+2023-11-08 12:16:24,473 - generated samples:135/10000
+2023-11-08 12:16:24,489 - Iteration 26 	 loss 2.3478
+2023-11-08 12:17:43,940 - generated samples:140/10000
+2023-11-08 12:17:43,955 - Iteration 27 	 loss 2.2929
+2023-11-08 12:19:03,886 - generated samples:145/10000
+2023-11-08 12:19:03,907 - Iteration 28 	 loss 2.2865
+2023-11-08 12:20:23,012 - generated samples:150/10000
+2023-11-08 12:20:23,033 - Iteration 29 	 loss 2.5767
+2023-11-08 12:21:42,017 - generated samples:155/10000
+2023-11-08 12:21:42,037 - Iteration 30 	 loss 2.6241
+2023-11-08 12:23:01,143 - generated samples:160/10000
+2023-11-08 12:23:01,163 - Iteration 31 	 loss 2.6253
+2023-11-08 12:24:20,451 - generated samples:165/10000
+2023-11-08 12:24:20,467 - Iteration 32 	 loss 2.6626
+2023-11-08 12:25:39,987 - generated samples:170/10000
+2023-11-08 12:25:40,008 - Iteration 33 	 loss 2.6601
+2023-11-08 12:26:59,498 - generated samples:175/10000
+2023-11-08 12:26:59,513 - Iteration 34 	 loss 2.6951
+2023-11-08 12:28:19,386 - generated samples:180/10000
+2023-11-08 12:28:19,401 - Iteration 35 	 loss 2.6500
+2023-11-08 12:29:39,455 - generated samples:185/10000
+2023-11-08 12:29:39,470 - Iteration 36 	 loss 2.7500
+2023-11-08 12:30:58,923 - generated samples:190/10000
+2023-11-08 12:30:58,938 - Iteration 37 	 loss 2.4702
+2023-11-08 12:32:18,217 - generated samples:195/10000
+2023-11-08 12:32:18,231 - Iteration 38 	 loss 2.3535
+2023-11-08 12:33:37,279 - generated samples:200/10000
+2023-11-08 12:33:37,294 - Iteration 39 	 loss 2.0935
+2023-11-08 12:34:57,706 - generated samples:205/10000
+2023-11-08 12:34:57,722 - Iteration 40 	 loss 2.1337
+2023-11-08 12:36:17,343 - generated samples:210/10000
+2023-11-08 12:36:17,358 - Iteration 41 	 loss 2.1963
+2023-11-08 12:37:37,399 - generated samples:215/10000
+2023-11-08 12:37:37,418 - Iteration 42 	 loss 2.1866
+2023-11-08 12:38:56,561 - generated samples:220/10000
+2023-11-08 12:38:56,576 - Iteration 43 	 loss 2.1854
+2023-11-08 12:40:15,952 - generated samples:225/10000
+2023-11-08 12:40:15,968 - Iteration 44 	 loss 2.0995
+2023-11-08 12:41:35,800 - generated samples:230/10000
+2023-11-08 12:41:35,816 - Iteration 45 	 loss 2.1317
+2023-11-08 12:42:55,975 - generated samples:235/10000
+2023-11-08 12:42:55,990 - Iteration 46 	 loss 2.0596
+2023-11-08 12:44:15,338 - generated samples:240/10000
+2023-11-08 12:44:15,353 - Iteration 47 	 loss 2.1187
+2023-11-08 12:45:34,690 - generated samples:245/10000
+2023-11-08 12:45:34,705 - Iteration 48 	 loss 2.2395
+2023-11-08 12:46:54,541 - generated samples:250/10000
+2023-11-08 12:46:54,557 - Iteration 49 	 loss 2.4936
+2023-11-08 12:48:14,188 - generated samples:255/10000
+2023-11-08 12:48:14,204 - Iteration 50 	 loss 2.5645
+2023-11-08 12:49:34,552 - generated samples:260/10000
+2023-11-08 12:49:34,568 - Iteration 51 	 loss 2.5995
+2023-11-08 12:50:54,110 - generated samples:265/10000
+2023-11-08 12:50:54,126 - Iteration 52 	 loss 2.5378
+2023-11-08 12:52:14,133 - generated samples:270/10000
+2023-11-08 12:52:14,148 - Iteration 53 	 loss 2.6219
+2023-11-08 12:53:33,841 - generated samples:275/10000
+2023-11-08 12:53:33,857 - Iteration 54 	 loss 2.6954
+2023-11-08 12:54:53,284 - generated samples:280/10000
+2023-11-08 12:54:53,300 - Iteration 55 	 loss 2.6670
+2023-11-08 12:56:12,405 - generated samples:285/10000
+2023-11-08 12:56:12,421 - Iteration 56 	 loss 2.7369
+2023-11-08 12:57:31,526 - generated samples:290/10000
+2023-11-08 12:57:31,542 - Iteration 57 	 loss 3.1189
+2023-11-08 12:58:51,055 - generated samples:295/10000
+2023-11-08 12:58:51,072 - Iteration 58 	 loss 3.3350
+2023-11-08 13:00:11,362 - generated samples:300/10000
+2023-11-08 13:00:11,377 - Iteration 59 	 loss 3.1241
+2023-11-08 13:01:31,850 - generated samples:305/10000
+2023-11-08 13:01:31,868 - Iteration 60 	 loss 2.9983
+2023-11-08 13:02:51,437 - generated samples:310/10000
+2023-11-08 13:02:51,452 - Iteration 61 	 loss 2.9862
+2023-11-08 13:04:10,730 - generated samples:315/10000
+2023-11-08 13:04:10,745 - Iteration 62 	 loss 3.1799
+2023-11-08 13:05:30,392 - generated samples:320/10000
+2023-11-08 13:05:30,408 - Iteration 63 	 loss 3.0154
+2023-11-08 13:06:50,629 - generated samples:325/10000
+2023-11-08 13:06:50,645 - Iteration 64 	 loss 3.1012
+2023-11-08 13:08:10,725 - generated samples:330/10000
+2023-11-08 13:08:10,742 - Iteration 65 	 loss 3.1732
+2023-11-08 13:09:30,667 - generated samples:335/10000
+2023-11-08 13:09:30,686 - Iteration 66 	 loss 3.1634
+2023-11-08 13:10:50,851 - generated samples:340/10000
+2023-11-08 13:10:50,867 - Iteration 67 	 loss 3.0841
+2023-11-08 13:12:10,248 - generated samples:345/10000
+2023-11-08 13:12:10,264 - Iteration 68 	 loss 2.9353
+2023-11-08 13:13:29,840 - generated samples:350/10000
+2023-11-08 13:13:29,856 - Iteration 69 	 loss 2.9179
+2023-11-08 13:14:50,035 - generated samples:355/10000
+2023-11-08 13:14:50,051 - Iteration 70 	 loss 2.8736
+2023-11-08 13:16:09,689 - generated samples:360/10000
+2023-11-08 13:16:09,705 - Iteration 71 	 loss 2.8337
+2023-11-08 13:17:29,325 - generated samples:365/10000
+2023-11-08 13:17:29,341 - Iteration 72 	 loss 2.5672
+2023-11-08 13:18:48,745 - generated samples:370/10000
+2023-11-08 13:18:48,761 - Iteration 73 	 loss 2.6694
+2023-11-08 13:20:08,480 - generated samples:375/10000
+2023-11-08 13:20:08,496 - Iteration 74 	 loss 2.5571
+2023-11-08 13:21:28,056 - generated samples:380/10000
+2023-11-08 13:21:28,071 - Iteration 75 	 loss 2.5199
+2023-11-08 13:22:47,825 - generated samples:385/10000
+2023-11-08 13:22:47,840 - Iteration 76 	 loss 2.5506
+2023-11-08 13:24:08,643 - generated samples:390/10000
+2023-11-08 13:24:08,665 - Iteration 77 	 loss 2.2010
+2023-11-08 13:25:29,095 - generated samples:395/10000
+2023-11-08 13:25:29,111 - Iteration 78 	 loss 2.2239
+2023-11-08 13:26:48,652 - generated samples:400/10000
+2023-11-08 13:26:48,671 - Iteration 79 	 loss 2.4090
+2023-11-08 13:28:08,300 - generated samples:405/10000
+2023-11-08 13:28:08,316 - Iteration 80 	 loss 2.5603
+2023-11-08 13:29:28,820 - generated samples:410/10000
+2023-11-08 13:29:28,835 - Iteration 81 	 loss 2.5358
+2023-11-08 13:30:48,658 - generated samples:415/10000
+2023-11-08 13:30:48,674 - Iteration 82 	 loss 2.6782
+2023-11-08 13:32:08,526 - generated samples:420/10000
+2023-11-08 13:32:08,542 - Iteration 83 	 loss 2.6450
+2023-11-08 13:33:28,065 - generated samples:425/10000
+2023-11-08 13:33:28,081 - Iteration 84 	 loss 2.7504
+2023-11-08 13:34:47,680 - generated samples:430/10000
+2023-11-08 13:34:47,699 - Iteration 85 	 loss 2.8558
+2023-11-08 13:36:07,645 - generated samples:435/10000
+2023-11-08 13:36:07,662 - Iteration 86 	 loss 2.8978
+2023-11-08 13:37:27,409 - generated samples:440/10000
+2023-11-08 13:37:27,425 - Iteration 87 	 loss 3.0665
+2023-11-08 13:38:47,396 - generated samples:445/10000
+2023-11-08 13:38:47,412 - Iteration 88 	 loss 3.0576
+2023-11-08 13:40:08,553 - generated samples:450/10000
+2023-11-08 13:40:08,568 - Iteration 89 	 loss 2.9717
+2023-11-08 13:41:29,079 - generated samples:455/10000
+2023-11-08 13:41:29,095 - Iteration 90 	 loss 2.8877
+2023-11-08 13:42:49,614 - generated samples:460/10000
+2023-11-08 13:42:49,633 - Iteration 91 	 loss 2.9240
+2023-11-08 13:44:10,861 - generated samples:465/10000
+2023-11-08 13:44:10,876 - Iteration 92 	 loss 2.9548
+Entropy of n_nodes: H[N] -2.4754221439361572
+alphas2 [9.99990000e-01 9.99988000e-01 9.99982000e-01 ... 2.59676966e-05
+ 1.39959211e-05 1.00039959e-05]
+gamma [-11.51291546 -11.33059532 -10.92513058 ...  10.55863126  11.17673063
+  11.51251595]
+alphas2 [9.99990000e-01 9.99988000e-01 9.99982000e-01 ... 2.59676966e-05
+ 1.39959211e-05 1.00039959e-05]
+gamma [-11.51291546 -11.33059532 -10.92513058 ...  10.55863126  11.17673063
+  11.51251595]
+Traceback (most recent call last):
+  File "run_EEGSDE_single_property.py", line 182, in <module>
+    main_quantitative(args)
+  File "run_EEGSDE_single_property.py", line 150, in main_quantitative
+    loss, stability_dict, rdkit_metrics = test(classifier, diffusion_dataloader, mean, mad, args.property, args.device, 1, dataset_info,args.result_path,args.save)
+  File "/home/chao/EEGSDE/energys_prediction/sampling.py", line 132, in test
+    for i, data in enumerate(loader):
+  File "run_EEGSDE_single_property.py", line 120, in __next__
+    return self.sample()
+  File "run_EEGSDE_single_property.py", line 91, in sample
+    context=context)
+  File "/home/chao/EEGSDE/energys_prediction/sampling.py", line 108, in sample
+    x, h = generative_model.sample(batch_size, max_n_nodes, node_mask, edge_mask, context, fix_noise=fix_noise,guidance=guidance,l=l)
+  File "/home/chao/EEGSDE/models_conditional/en_diffusion.py", line 540, in sample
+    z = self.sample_p_zs_given_zt(s_array, t_array, z, node_mask, edge_mask, context, fix_noise=fix_noise,guidance=guidance,l=l)
+  File "/home/chao/EEGSDE/models_conditional/en_diffusion.py", line 478, in sample_p_zs_given_zt
+    prediction = guidance.phi(zt, t, node_mask, edge_mask)
+  File "/home/chao/EEGSDE/energys_prediction/en_diffusion.py", line 315, in phi
+    net_out = self.dynamics._forward(t, x, node_mask, edge_mask)
+  File "/home/chao/EEGSDE/energys_prediction/models.py", line 72, in _forward
+    prediction = self.egnn(h, x, edges, node_mask=node_mask, edge_mask=edge_mask,n_nodes=n_nodes)
+  File "/home/chao/.conda/envs/EEGSDE/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/chao/EEGSDE/energys_prediction/egnn.py", line 193, in forward
+    h, _ = self._modules["e_block_%d" % i](h, x, edge_index, node_mask=node_mask, edge_mask=edge_mask, edge_attr=distances)
+  File "/home/chao/.conda/envs/EEGSDE/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/chao/EEGSDE/energys_prediction/egnn.py", line 137, in forward
+    h, _ = self._modules["gcl_%d" % i](h, edge_index, edge_attr=edge_attr, node_mask=node_mask, edge_mask=edge_mask)
+  File "/home/chao/.conda/envs/EEGSDE/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/chao/EEGSDE/energys_prediction/egnn.py", line 61, in forward
+    edge_feat, mij = self.edge_model(h[row], h[col], edge_attr, edge_mask)
+  File "/home/chao/EEGSDE/energys_prediction/egnn.py", line 34, in edge_model
+    out = torch.cat([source, target, edge_attr], dim=1)
+KeyboardInterrupt
+Completed alpha run with -l 2.0.
+Running alpha with -l 3.0...
+Traceback (most recent call last):
+  File "run_EEGSDE_single_property.py", line 182, in <module>
+    main_quantitative(args)
+  File "run_EEGSDE_single_property.py", line 131, in main_quantitative
+    classifier = get_classifier(args.classifiers_path,args.args_classifiers_path).to(args.device)
+  File "/home/chao/.conda/envs/EEGSDE/lib/python3.7/site-packages/torch/nn/modules/module.py", line 989, in to
+    return self._apply(convert)
+  File "/home/chao/.conda/envs/EEGSDE/lib/python3.7/site-packages/torch/nn/modules/module.py", line 641, in _apply
+    module._apply(fn)
+  File "/home/chao/.conda/envs/EEGSDE/lib/python3.7/site-packages/torch/nn/modules/module.py", line 664, in _apply
+    param_applied = fn(param)
+  File "/home/chao/.conda/envs/EEGSDE/lib/python3.7/site-packages/torch/nn/modules/module.py", line 987, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+KeyboardInterrupt
+Completed alpha run with -l 3.0.
+Running alpha with -l 4.0...
+Traceback (most recent call last):
+  File "run_EEGSDE_single_property.py", line 3, in <module>
+    from tool.utils import available_devices,format_devices
+  File "/home/chao/EEGSDE/tool/utils.py", line 48, in <module>
+    import torch
+  File "/home/chao/.conda/envs/EEGSDE/lib/python3.7/site-packages/torch/__init__.py", line 218, in <module>
+    from torch._C import *  # noqa: F403
+RuntimeError: KeyboardInterrupt: <EMPTY MESSAGE>
+Completed alpha run with -l 4.0.
+Running alpha with -l 5.0...
+Traceback (most recent call last):
+  File "run_EEGSDE_single_property.py", line 3, in <module>
+    from tool.utils import available_devices,format_devices
+  File "/home/chao/EEGSDE/tool/utils.py", line 48, in <module>
+    import torch
+  File "/home/chao/.conda/envs/EEGSDE/lib/python3.7/site-packages/torch/__init__.py", line 218, in <module>
+    from torch._C import *  # noqa: F403
+RuntimeError: KeyboardInterrupt: <EMPTY MESSAGE>
+Completed alpha run with -l 5.0.
+alpha runs completed!

@@ -1,0 +1,1 @@
+The molecule is a pentasaccharide composed of a mannopyranose and four arabinofuranose residues in an alpha(1->5), beta(1->2), alpha(1->5) and alpha(1->5) linear sequence.

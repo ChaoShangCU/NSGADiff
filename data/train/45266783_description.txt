@@ -1,0 +1,1 @@
+The molecule is an amido trisaccharide fragment which mimicks the terminus of the O-polysaccharide of Vibrio cholerae O:1, serotype Ogawa. It derives from an alpha-D-mannose.

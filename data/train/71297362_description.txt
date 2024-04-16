@@ -1,0 +1,1 @@
+The molecule is an amino trisaccharide consisting of alpha-D-mannopyranose, beta-D-mannopyranose and 2-acetamido-2-deoxy-D-glucopyranose residues joined in sequence by (1->6) and (1->4) glycosidic bonds. It is an amino trisaccharide, a glucosamine oligosaccharide and a member of acetamides. It derives from a beta-D-Manp-(1->4)-D-GlcpNAc and an alpha-D-Manp-(1->6)-beta-D-Manp.

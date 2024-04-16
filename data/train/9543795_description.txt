@@ -1,0 +1,1 @@
+The molecule is a 1,2-diacyl-sn-glycerol in which the acyl groups positions 1 and 2 are specified as alpha-linolenoyl and (8Z,11Z,14Z)-icosatrienoyl respectively. It has a role as a human blood serum metabolite. It is a 1,2-diacyl-sn-glycerol and a diacylglycerol 38:6. It derives from an alpha-linolenic acid and an all-cis-icosa-8,11,14-trienoic acid.

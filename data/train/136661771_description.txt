@@ -1,0 +1,1 @@
+The molecule is an organophosphate oxoanion obtained by deprotonation of the phosphate OH groups of prenyl-FMN; major species at pH 7.3. It is an essential cofactor for the decarboxylase enzymes UbiD (Fdc1). It has a role as a cofactor. It derives from a FMN(3-). It is a conjugate base of a prenyl-FMN.

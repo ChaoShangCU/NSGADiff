@@ -1,0 +1,1 @@
+The molecule is an N-propionylated alpha-(2->8)-linked homosialopolysaccharide consisting of six alpha-D-N-propionylneuraminyl residues joined by (2->8) linkages (i.e. [8)-alpha-Neu5Pr-(2->]n where n = 6).

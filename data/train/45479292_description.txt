@@ -1,0 +1,1 @@
+The molecule is needed for the new reaction: trans,octacis-decaprenyl phosphate + 5-phospho-alpha-D-ribose 1-diphosphate = trans,octacis-decaprenylphospho-beta-D-ribofuranose 5-phosphate + diphosphate It is a conjugate base of a trans,octacis-decaprenylphospho-beta-D-ribofuranose 5-phosphate.

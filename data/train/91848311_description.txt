@@ -1,0 +1,1 @@
+The molecule is a glycosylmannose consisting of alpha-D-galactopyranose and alpha-D-mannopyranose residues joined in sequence by a (1->3) glycosidic bond. It derives from an alpha-D-galactose and an alpha-D-mannose.

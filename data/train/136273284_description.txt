@@ -1,0 +1,1 @@
+The molecule is a polynucleotide comprised of 2'-deoxyguanosine units connected via 3'->5' phosphodiester linkages. It contains a 2'-deoxyguanosine 5'-monophosphate residue, a dGMP 5'-end residue and a dGMP 3'-end residue.

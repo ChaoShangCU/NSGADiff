@@ -1,0 +1,1 @@
+The molecule is a 1-(4-{4-[5-(2,6-difluorophenyl)-4,5-dihydro-1,2-oxazol-3-yl]-1,3-thiazol-2-yl}piperidin-1-yl)-2-[5-methyl-3-(trifluoromethyl)-1H-pyrazol-1-yl]ethanone that has S configuration at position 5 of the 4,5-dihydro-1,2-oxazole ring. It is an enantiomer of a (R)-oxathiapiprolin.

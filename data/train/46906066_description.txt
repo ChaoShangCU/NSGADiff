@@ -1,0 +1,1 @@
+The molecule is a mimotope of the pyruvate dehydrogenase E2 component (PDC-E2) comprising a 2-iodobenzoyl group linked to the lipoated PDC-E2 core dodecapeptide (DKATIGFEVQEE) at N-6 of lysine. It has a role as a mimotope. It is a polypeptide and a lipopeptide.

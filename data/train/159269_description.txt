@@ -1,0 +1,1 @@
+The molecule is a pyrimidine 2'-deoxyribonucleoside that is the L-enantiomer of thymine. A synthetic thymidine nucleoside analogue with activity against HBV DNA polymerase. It has a role as an antiviral drug and an EC 2.7.7.49 (RNA-directed DNA polymerase) inhibitor. It derives from a thymine. It is an enantiomer of a thymidine.

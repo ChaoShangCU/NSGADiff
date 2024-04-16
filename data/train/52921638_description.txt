@@ -1,0 +1,1 @@
+The molecule is an amino tetrasaccharide comprising residues of galactose, N-acetylglucosamine, galactose and N-acetylglucosamine in a linear sequence, joined by beta-(1->4)-, beta-(1->3)-, and beta-(1->4)-linkages, respectively.

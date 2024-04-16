@@ -1,0 +1,1 @@
+The molecule is a lysophosphatidylcholine 22:6 in which the remaining acyl group is (4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoyl. It has a role as a human metabolite and a mouse metabolite. It derives from an all-cis-docosa-4,7,10,13,16,19-hexaenoic acid.

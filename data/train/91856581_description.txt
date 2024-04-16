@@ -1,0 +1,1 @@
+The molecule is a glucotriose consisting of an alpha-D-glucopyranose residue and two beta-D-glucopyranose residues joined in sequence by (1->4) and (1->6) glycosidic bonds. It derives from a beta-maltose and a beta-D-Glcp-(1->6)-beta-D-Glcp.

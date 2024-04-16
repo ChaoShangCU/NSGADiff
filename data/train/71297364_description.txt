@@ -1,0 +1,1 @@
+The molecule is an amino tetrasaccharide that is beta-D-Manp-(1->4)-beta-D-GlcpNAc-(1->4)-D-GlcpNAc in which the hydroxy group at position 3 of the mannosyl group has been glycosylated by an alpha-D-mannopyranosyl residue. It is an amino sugar, an amino tetrasaccharide and a member of acetamides. It derives from a beta-D-Manp-(1->4)-beta-D-GlcpNAc-(1->4)-D-GlcpNAc.

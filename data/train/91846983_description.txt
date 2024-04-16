@@ -1,0 +1,1 @@
+The molecule is a disaccharide phosphate consisting of an alpha-D-mannopyranose residue and an alpha-D-mannose 6-phosphate residue joined in sequence by a (1->2) glycosidic bond. It derives from an alpha-D-mannose 6-phosphate and an alpha-D-Manp-(1->2)-alpha-D-Manp.

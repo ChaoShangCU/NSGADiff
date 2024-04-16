@@ -1,0 +1,1 @@
+The molecule is a tetrasaccharide composed of three alpha-D-Kdo residues and one acetylated beta-glucosamine residue (at the reducing end). It is a partial structure of chlamydial lipopolysaccharide (LPS). It is an alpha-D-Kdo-(2->8)-alpha-D-Kdo-(2->4)-alpha-D-Kdo-(2->6)-D-GlcNAc and a glucosamine oligosaccharide.

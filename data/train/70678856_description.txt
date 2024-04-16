@@ -1,0 +1,1 @@
+The molecule is an oligonucleotide comprised of three adenosine residues linked 2'->5' and with a triphosphate group at the 5' terminus. It has a role as a protein synthesis inhibitor.

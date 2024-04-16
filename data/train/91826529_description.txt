@@ -1,0 +1,1 @@
+The molecule is a phosphatidylcholine 24:0 in which the acyl groups specified at positions 1 and 2 are tetradecanoyl and decanoyl respectively. It is a phosphatidylcholine 24:0, a tetradecanoate ester and a decanoate ester.

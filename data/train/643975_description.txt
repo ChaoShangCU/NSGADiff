@@ -1,0 +1,1 @@
+The molecule is a flavin adenine dinucleotide in which the substituent at position 10 of the flavin nucleus is a 5'-adenosyldiphosphoribityl group. It has a role as a human metabolite, an Escherichia coli metabolite, a mouse metabolite, a prosthetic group and a cofactor. It is a conjugate acid of a FAD(3-).

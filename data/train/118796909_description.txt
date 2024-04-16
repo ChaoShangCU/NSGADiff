@@ -1,0 +1,1 @@
+The molecule is an organic cation obtained by protonation at position 3 in the oxazole ring of N-demethylindolmycin. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate acid of a N-demethylindolmycin.

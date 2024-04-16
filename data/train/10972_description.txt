@@ -1,0 +1,1 @@
+The molecule is an N-acylglycine where the acyl group is specified as acetyl. It has a role as a human metabolite. It is a N-acetyl-amino acid and a N-acylglycine. It is a conjugate acid of a N-acetylglycinate.

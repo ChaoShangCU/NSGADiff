@@ -1,0 +1,1 @@
+The molecule is a linear amino trisaccharide consisting of a beta-D-galactosyl residue linked (1->3) to an N-acetyl-D-glucosaminyl residue, which is in turn linked (1->3) to N-acetyl-D-glucosamine at the reducing end. It is an amino trisaccharide and a galactosamine oligosaccharide.

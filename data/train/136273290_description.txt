@@ -1,0 +1,1 @@
+The molecule is a double-stranded DNA polynucleotide consisting of a strand of deoxyguanosine residues with a complementary strand of deoxycytidine residues, all residues in each strand being connected by 3'->5' phosphodiester linkages. It contains a poly(deoxyguanylic acid) and a poly(deoxycytidylic acid).

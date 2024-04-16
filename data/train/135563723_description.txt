@@ -1,0 +1,1 @@
+The molecule is an enolate anion resulting from the deprotonation of the enol group of andrastin B. Major species at pH 7.3. Published in Tetrahedron, 2013, 69(38), 8199-8204. http://dx.doi.org/10.1016/j.tet.2013.07.029 It has a role as an EC 2.5.1.58 (protein farnesyltransferase) inhibitor. It is a conjugate base of an andrastin B.

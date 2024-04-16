@@ -1,0 +1,1 @@
+The molecule is an inositol phosphate oxoanion obtained by deprotonation of all but one of the phosphate and diphosphate OH groups of 3,5-bis(diphospho)-1D-myo-inositol 1,2,4,6-tetrakisphosphate. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a 3,5-bis(diphospho)-1D-myo-inositol 1,2,4,6-tetrakisphosphate.

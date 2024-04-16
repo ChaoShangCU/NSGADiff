@@ -1,0 +1,1 @@
+The molecule is a UDP-amino sugar that is UDP-N-acetyl-D-glucosamine having an beta-D-galactose-1-phospho moiety attached at position 6. It derives from an UDP-D-glucosamine. It is a conjugate acid of an UDP-N-acetyl-6-(D-galactose-1-phosphonato)-D-glucosamine(3-).

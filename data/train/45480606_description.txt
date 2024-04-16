@@ -1,0 +1,1 @@
+The molecule is a branched tetrasaccharide consisting of an alpha-L-Rha-(1->3)-alpha-L-Rha-(1->3)-beta-D-GlcNAc trisaccharide chain, to the central rhamnose residue is also linked alpha(1->4) a D-glucose residue. Derived from the Shigella liposaccharide O-antigen, it has antigenic properties. It has a role as an antigen.

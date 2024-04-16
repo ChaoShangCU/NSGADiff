@@ -1,0 +1,1 @@
+The molecule is an alpha-D-Manp-(1->6)-D-Manp-(1->4)-beta-D-GlcpNAc-(1->4)-D-GlcpNAc in which the dimannopyranosyl group is attached to the diacetylchitobiose moiety by beta-(1->4) glycosidic bond. It derives from a beta-D-Manp-(1->4)-beta-D-GlcpNAc-(1->4)-D-GlcpNAc.

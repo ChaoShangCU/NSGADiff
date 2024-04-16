@@ -1,0 +1,1 @@
+The molecule is a linear hexasaccharide consisting of D-mannosyl residues connected by two beta- and three alpha-1,2-linkages, obtained from Candida albicans cell-wall D-mannan.

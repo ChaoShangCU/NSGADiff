@@ -1,0 +1,1 @@
+The molecule is a glucotetrose consisting of three alpha-D-glucopyranosyl residues and a beta-D-glucopyransyl residue joined in sequence by (1->6) glycosidic bonds. It derives from an alpha-D-Glcp-(1->6)-alpha-D-Glcp-(1->6)-alpha-D-Glcp and an alpha-D-Glcp-(1->6)-alpha-D-Glcp-(1->6)-beta-D-Glcp.

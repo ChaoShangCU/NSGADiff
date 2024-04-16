@@ -1,0 +1,1 @@
+The molecule is a 1,2-diglyceride in which the 1- and 2-acyl groups are specified as oleoyl and palmitoyl respectively. It derives from an oleic acid and a hexadecanoic acid.

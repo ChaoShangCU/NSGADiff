@@ -1,0 +1,1 @@
+The molecule is a 2'-deoxyribonucleoside 5'-triphosphate(4-) arising from deprotonation of the triphosphate OH groups of 2'-deoxycytidine 5'-triphosphate (dCTP); major species at pH 7.3. It is a conjugate base of a dCTP(3-).

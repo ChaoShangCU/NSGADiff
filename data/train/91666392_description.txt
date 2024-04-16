@@ -1,0 +1,1 @@
+The molecule is an N-acyllysophosphatidylethanolamine(1-) in which the N-acyl group is specified as stearoyl (octadecanoyl) while the phosphatidyl acyl group is specified as oleoyl (9Z-octadecenoyl); major species at pH 7.3. It is a conjugate base of a N-stearoyl-1-oleoyl-sn-glycero-3-phosphoethanolamine.

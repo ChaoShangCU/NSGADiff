@@ -1,0 +1,1 @@
+The molecule is a nucleoside triphosphate analogue that is GTP in which the oxygen atom bridging the beta- to the gamma- phosphate is replaced by a nitrogen atom A non-hydrolyzable analog of GTP, it binds tightly to G-protein in the presence of Mg(2+). It is a conjugate acid of a guanosine 5'-[beta,gamma-imido]triphosphate(4-).

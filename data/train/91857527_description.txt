@@ -1,0 +1,1 @@
+The molecule is a galactotriose consisting of two alpha-D-galactopyranose residues and a beta-D-galactopyraonse residue joined in sequence by (1->6) glycosidic bonds. It derives from an alpha-D-Galp-(1->6)-beta-D-Galp.

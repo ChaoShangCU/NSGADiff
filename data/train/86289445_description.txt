@@ -1,0 +1,1 @@
+The molecule is a flavonoid oxoanion that is a trianionic form of luteolin 7-O-[(beta-D-glucosiduronate)-(1->2)-(beta-D-glucosiduronate)]. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a carbohydrate acid derivative anion and a flavonoid oxoanion. It is a conjugate base of a luteolin 7-O-[(beta-D-glucosiduronate)-(1->2)-(beta-D-glucosiduronate)].

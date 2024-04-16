@@ -1,0 +1,1 @@
+The molecule is a glucotriose consisting of D-glucopyranose, alpha-D-glucopyranose and beta-D-glucopyranose residues joined in sequence by two (1->4) glycosidic bonds. The configuration of the anomeric centre at the non-reducing terminus is not specified. It is a partially-defined glycan and a glucotriose.

@@ -1,0 +1,1 @@
+The molecule is an L-alpha-amino acid zwitterion obtained by transfer of a proton from the carboxy to the amino group of 3-cyano-L-alanine. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate acid of a 3-cyano-L-alaninate. It is a tautomer of a 3-cyano-L-alanine.
